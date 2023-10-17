@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="0" viewPortTop="1530" zoom="100">
+    <ListaTipoAficiones_XmlElement left="1000" top="1000" width="5292" height="2963" selected="0" zOrder="16" index="0" expanded="1" />
+    <ListaTipoClasificacion_XmlElement left="6926" top="1000" width="5292" height="2963" selected="0" zOrder="17" index="1" expanded="1" />
+    <ListaTipoRelacionClienteCentro_XmlElement left="12852" top="1000" width="5292" height="2963" selected="0" zOrder="18" index="2" expanded="1" />
+    <ListaTipoClienteCOM_XmlElement left="18778" top="1000" width="5292" height="2963" selected="0" zOrder="19" index="3" expanded="1" />
+    <ListaTipoEspeciadadMed_XmlElement left="24704" top="1000" width="5292" height="2963" selected="0" zOrder="20" index="4" expanded="1" />
+    <AficClientes_COM_XmlElement left="7011" top="4313" width="5292" height="3810" selected="0" zOrder="1" index="5" expanded="1" />
+    <CentrosClientes_COM_XmlElement left="13070" top="9393" width="5292" height="6349" selected="0" zOrder="2" index="6" expanded="1" />
+    <EspecClientes_COM_XmlElement left="13070" top="5001" width="5292" height="3810" selected="0" zOrder="4" index="7" expanded="1" />
+    <ProdClientes_COM_XmlElement left="18759" top="4497" width="5291" height="4233" selected="0" zOrder="6" index="8" expanded="1" />
+    <AccionesMarkClientes_XmlElement left="19208" top="9287" width="5292" height="6350" selected="0" zOrder="8" index="9" expanded="1" />
+    <Clientes_XmlElement left="1058" top="4313" width="5292" height="7196" selected="0" zOrder="10" index="10" expanded="1" />
+    <ClientesRedes_XmlElement left="6879" top="8070" width="5292" height="3810" selected="0" zOrder="12" index="11" expanded="1" />
+    <Clientes_COM_XmlElement left="6905" top="12647" width="5292" height="9736" selected="0" zOrder="14" index="12" expanded="1" />
+</XSDDesignerLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="8173" viewPortTop="455" zoom="100">
+    <ListaTipoCentro_XmlElement left="10848" top="4657" width="5292" height="2963" selected="0" zOrder="1" index="0" expanded="1" />
+    <ListaTipoClasificacion_XmlElement left="10927" top="1534" width="5292" height="2963" selected="0" zOrder="2" index="1" expanded="1" />
+    <ListaSiNo_XmlElement left="16774" top="1455" width="4551" height="2963" selected="0" zOrder="4" index="2" expanded="1" />
+    <ListaTipoSistemaInformatico_XmlElement left="16642" top="4684" width="4657" height="2963" selected="0" zOrder="5" index="3" expanded="1" />
+    <ListaTipoPoliticaPrescripcion_XmlElement left="10875" top="7646" width="5292" height="2964" selected="0" zOrder="7" index="4" expanded="1" />
+    <ListaTipoRelacionClienteCentro_XmlElement left="16589" top="7884" width="4709" height="2964" selected="0" zOrder="9" index="5" expanded="1" />
+    <GetCentro_XmlElement left="9340" top="10821" width="8466" height="10583" selected="0" zOrder="11" index="6" expanded="1" />
+    <ListaClientesCOM_Centros_XmlElement left="18944" top="15319" width="8626" height="4656" selected="0" zOrder="15" index="7" expanded="1" />
+    <ListaRedes_XmlElement left="18063" top="10933" width="5292" height="2963" selected="0" zOrder="13" index="8" expanded="1" />
+    <ListaSiNob_XmlElement left="28204" top="1000" width="5292" height="2963" selected="0" zOrder="17" index="9" expanded="1" />
+</XSDDesignerLayout>

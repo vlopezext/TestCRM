@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="33095" viewPortTop="-746" zoom="100">
+    <ListaDelegados_XmlElement left="317" top="254" width="5292" height="2963" selected="0" zOrder="29" index="0" expanded="1" />
+    <ListaTipoCliente_XmlElement left="5609" top="265" width="6562" height="2963" selected="0" zOrder="30" index="1" expanded="1" />
+    <ListaProdClientes_COM_XmlElement left="315" top="3349" width="5292" height="2963" selected="0" zOrder="1" index="2" expanded="1" />
+    <ListaRelacionClienteCentro_XmlElement left="12197" top="343" width="8043" height="2964" selected="0" zOrder="31" index="3" expanded="1" />
+    <ListaTipoEspeciadadMed_XmlElement left="20315" top="3535" width="5292" height="2963" selected="0" zOrder="2" index="4" expanded="1" />
+    <ListaProductos_XmlElement left="653" top="6578" width="5292" height="2963" selected="0" zOrder="4" index="5" expanded="1" />
+    <ListaTipoHorarioCentro_XmlElement left="6579" top="6578" width="5292" height="2963" selected="0" zOrder="6" index="6" expanded="1" />
+    <ListaTipoRelacionClienteCentro_XmlElement left="12505" top="6578" width="5292" height="2963" selected="0" zOrder="8" index="7" expanded="1" />
+    <GetCliente_COM_XmlElement left="6580" top="10011" width="5292" height="2963" selected="0" zOrder="10" index="8" expanded="1" />
+    <ListaTipoCargoCtoCliSAP_XmlElement left="24040" top="6730" width="5292" height="2963" selected="0" zOrder="12" index="9" expanded="1" />
+    <ListaRepActividadCli_XmlElement left="29966" top="10038" width="5292" height="2963" selected="0" zOrder="32" index="10" expanded="1" />
+    <ListaRepActividadCli_ProxObj_XmlElement left="30097" top="6810" width="5292" height="2963" selected="0" zOrder="33" index="11" expanded="1" />
+    <ListaTipoClasificacion_XmlElement left="40998" top="6466" width="5292" height="2963" selected="0" zOrder="34" index="12" expanded="1" />
+    <ListaAficClientes_COM_XmlElement left="41288" top="9540" width="5292" height="2963" selected="0" zOrder="35" index="13" expanded="1" />
+    <ListaTipoAficiones_XmlElement left="41208" top="12609" width="5292" height="2963" selected="0" zOrder="36" index="14" expanded="1" />
+    <GetCliente_SAP_XmlElement left="12506" top="10011" width="5292" height="2963" selected="0" zOrder="14" index="15" expanded="1" />
+    <ListaEspecClientes_COM_XmlElement left="25819" top="571" width="5292" height="2963" selected="0" zOrder="37" index="16" expanded="1" />
+    <ListaTipoClienteCOM_XmlElement left="46970" top="6571" width="5292" height="2963" selected="0" zOrder="38" index="17" expanded="1" />
+    <ListaRedes_XmlElement left="691" top="13556" width="5292" height="2963" selected="0" zOrder="16" index="18" expanded="1" />
+    <ListaEstados_XmlElement left="7093" top="13555" width="5292" height="2963" selected="0" zOrder="18" index="19" expanded="1" />
+    <ListaContactos_porCliente_SAP_XmlElement left="18547" top="10186" width="5291" height="4234" selected="0" zOrder="20" index="20" expanded="1" />
+    <ListaCentros_porCliente_SAP_XmlElement left="24447" top="10080" width="5292" height="4234" selected="0" zOrder="21" index="21" expanded="1" />
+    <ListaMayoristasClientes_SAP_XmlElement left="47201" top="9948" width="5291" height="5080" selected="0" zOrder="39" index="22" expanded="1" />
+    <ListaClienteRed_XmlElement left="18679" top="14922" width="5292" height="3810" selected="0" zOrder="23" index="23" expanded="1" />
+    <ListaAccionesMarkClientes_XmlElement left="12700" top="13811" width="5291" height="5927" selected="0" zOrder="25" index="24" expanded="1" />
+    <ListaClientes_XmlElement left="46961" top="1291" width="5292" height="2963" selected="0" zOrder="40" index="25" expanded="1" />
+    <ListaCentros_porCliente_COM_XmlElement left="-794" top="16800" width="7938" height="4657" selected="0" zOrder="27" index="26" expanded="1" />
+</XSDDesignerLayout>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dsAltaCentros" targetNamespace="http://tempuri.org/dsAltaCentros.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/dsAltaCentros.xsd" xmlns:mstns="http://tempuri.org/dsAltaCentros.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dsAltaCentros" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="ListaTipoCentro">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sValor" type="xs:string" />
+							<xs:element name="sLiteral" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaTipoClasificacion">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sValor" type="xs:string" />
+							<xs:element name="sLiteral" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaSiNo">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sValor" type="xs:string" />
+							<xs:element name="sLiteral" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaTipoSistemaInformatico">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sValor" type="xs:string" />
+							<xs:element name="sLiteral" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaTipoPoliticaPrescripcion">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sValor" type="xs:string" />
+							<xs:element name="sLiteral" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaTipoRelacionClienteCentro">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sValor" type="xs:string" />
+							<xs:element name="sLiteral" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="GetCentro">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sIdCentro" type="xs:string" />
+							<xs:element name="sIdCentroTemp" type="xs:string" />
+							<xs:element name="sIdTipoCentro" type="xs:string" minOccurs="0" />
+							<xs:element name="sDescripcion" type="xs:string" />
+							<xs:element name="sDireccion" type="xs:string" />
+							<xs:element name="iIdPoblacion" type="xs:int" />
+							<xs:element name="sFax" type="xs:string" minOccurs="0" />
+							<xs:element name="sTelefono" type="xs:string" minOccurs="0" />
+							<xs:element name="sIdPolPrescripcion" type="xs:string" minOccurs="0" />
+							<xs:element name="sIdTipoClasificacion" type="xs:string" minOccurs="0" />
+							<xs:element name="sIdSistInformatico" type="xs:string" minOccurs="0" />
+							<xs:element name="bPactoPrescripcion" type="xs:boolean" minOccurs="0" />
+							<xs:element name="bVisitaColectiva" type="xs:boolean" minOccurs="0" />
+							<xs:element name="dFUM" type="xs:dateTime" />
+							<xs:element name="iEstado" type="xs:short" />
+							<xs:element name="bEnviadoPDA" type="xs:boolean" />
+							<xs:element name="bEnviadoCEN" type="xs:boolean" />
+							<xs:element name="Poblaciones" type="xs:string" />
+							<xs:element name="iIdProvincia" type="xs:int" />
+							<xs:element name="sProvincia" type="xs:string" />
+							<xs:element name="sCodPostal" type="xs:string" />
+							<xs:element name="sIdBrick" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaClientesCOM_Centros">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="iIdCliente" type="xs:int" />
+							<xs:element name="sIdCliente" type="xs:string" />
+							<xs:element name="tNombre" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+							<xs:element name="sIdTipoRelacionCliCen" type="xs:string" minOccurs="0" />
+							<xs:element name="sLiteral" type="xs:string" />
+							<xs:element name="sIdRed" type="xs:string" />
+							<xs:element name="Red" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+							<xs:element name="Accion" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaRedes">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sValor" type="xs:string" />
+							<xs:element name="sLiteral" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaSiNob">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sValor" type="xs:string" />
+							<xs:element name="sLiteral" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

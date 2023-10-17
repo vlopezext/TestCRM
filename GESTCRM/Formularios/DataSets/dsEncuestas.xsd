@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsEncuestas" targetNamespace="http://tempuri.org/dsEncuestas.xsd" xmlns:mstns="http://tempuri.org/dsEncuestas.xsd" xmlns="http://tempuri.org/dsEncuestas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=GEMMA-HP\SQLExpress;Initial Catalog=GESTCRMCL_CH;User ID=sa;Password=Bayvit1429" IsAppSettingsProperty="false" Modifier="Assembly" Name="gemma-hp\sqlexpress.GESTCRMCL_CH.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsEncuestas" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsEncuestas" msprop:Generator_UserDSName="dsEncuestas">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DatosEncuestasCliente" msprop:Generator_TableClassName="DatosEncuestasClienteDataTable" msprop:Generator_TableVarName="tableDatosEncuestasCliente" msprop:Generator_RowChangedName="DatosEncuestasClienteRowChanged" msprop:Generator_TablePropName="DatosEncuestasCliente" msprop:Generator_RowDeletingName="DatosEncuestasClienteRowDeleting" msprop:Generator_RowChangingName="DatosEncuestasClienteRowChanging" msprop:Generator_RowEvHandlerName="DatosEncuestasClienteRowChangeEventHandler" msprop:Generator_RowDeletedName="DatosEncuestasClienteRowDeleted" msprop:Generator_RowClassName="DatosEncuestasClienteRow" msprop:Generator_UserTableName="DatosEncuestasCliente" msprop:Generator_RowEvArgName="DatosEncuestasClienteRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idEncuesta" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnidEncuesta" msprop:Generator_ColumnPropNameInRow="idEncuesta" msprop:Generator_ColumnPropNameInTable="idEncuestaColumn" msprop:Generator_UserColumnName="idEncuesta" type="xs:int" />
+              <xs:element name="sDescripcion" msprop:Generator_ColumnVarNameInTable="columnsDescripcion" msprop:Generator_ColumnPropNameInRow="sDescripcion" msprop:Generator_ColumnPropNameInTable="sDescripcionColumn" msprop:Generator_UserColumnName="sDescripcion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bObligatoria" msprop:Generator_ColumnVarNameInTable="columnbObligatoria" msprop:Generator_ColumnPropNameInRow="bObligatoria" msprop:Generator_ColumnPropNameInTable="bObligatoriaColumn" msprop:Generator_UserColumnName="bObligatoria" type="xs:boolean" />
+              <xs:element name="idPregunta" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnidPregunta" msprop:Generator_ColumnPropNameInRow="idPregunta" msprop:Generator_ColumnPropNameInTable="idPreguntaColumn" msprop:Generator_UserColumnName="idPregunta" type="xs:int" />
+              <xs:element name="sPregunta" msprop:Generator_ColumnVarNameInTable="columnsPregunta" msprop:Generator_ColumnPropNameInRow="sPregunta" msprop:Generator_ColumnPropNameInTable="sPreguntaColumn" msprop:Generator_UserColumnName="sPregunta">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idRespuesta" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnidRespuesta" msprop:Generator_ColumnPropNameInRow="idRespuesta" msprop:Generator_ColumnPropNameInTable="idRespuestaColumn" msprop:Generator_UserColumnName="idRespuesta" type="xs:int" />
+              <xs:element name="sRespuesta" msprop:Generator_ColumnVarNameInTable="columnsRespuesta" msprop:Generator_ColumnPropNameInRow="sRespuesta" msprop:Generator_ColumnPropNameInTable="sRespuestaColumn" msprop:Generator_UserColumnName="sRespuesta">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bObligatoria1" msprop:Generator_ColumnVarNameInTable="columnbObligatoria1" msprop:Generator_ColumnPropNameInRow="bObligatoria1" msprop:Generator_ColumnPropNameInTable="bObligatoria1Column" msprop:Generator_UserColumnName="bObligatoria1" type="xs:boolean" />
+              <xs:element name="bContestada" msprop:Generator_ColumnVarNameInTable="columnbContestada" msprop:Generator_ColumnPropNameInRow="bContestada" msprop:Generator_ColumnPropNameInTable="bContestadaColumn" msprop:Generator_UserColumnName="bContestada" type="xs:boolean" />
+              <xs:element name="iIdRespuesta" msprop:Generator_ColumnVarNameInTable="columniIdRespuesta" msprop:Generator_ColumnPropNameInRow="iIdRespuesta" msprop:Generator_ColumnPropNameInTable="iIdRespuestaColumn" msprop:Generator_UserColumnName="iIdRespuesta" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="EncuestasActivas" msprop:Generator_TableClassName="EncuestasActivasDataTable" msprop:Generator_TableVarName="tableEncuestasActivas" msprop:Generator_TablePropName="EncuestasActivas" msprop:Generator_RowDeletingName="EncuestasActivasRowDeleting" msprop:Generator_RowChangingName="EncuestasActivasRowChanging" msprop:Generator_RowEvHandlerName="EncuestasActivasRowChangeEventHandler" msprop:Generator_RowDeletedName="EncuestasActivasRowDeleted" msprop:Generator_UserTableName="EncuestasActivas" msprop:Generator_RowChangedName="EncuestasActivasRowChanged" msprop:Generator_RowEvArgName="EncuestasActivasRowChangeEvent" msprop:Generator_RowClassName="EncuestasActivasRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdEncuesta" msprop:Generator_ColumnVarNameInTable="columnIdEncuesta" msprop:Generator_ColumnPropNameInRow="IdEncuesta" msprop:Generator_ColumnPropNameInTable="IdEncuestaColumn" msprop:Generator_UserColumnName="IdEncuesta" type="xs:int" />
+              <xs:element name="sDescripcion" msprop:Generator_ColumnVarNameInTable="columnsDescripcion" msprop:Generator_ColumnPropNameInRow="sDescripcion" msprop:Generator_ColumnPropNameInTable="sDescripcionColumn" msprop:Generator_UserColumnName="sDescripcion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ClientesEncuestaRealizada" msprop:Generator_TableClassName="ClientesEncuestaRealizadaDataTable" msprop:Generator_TableVarName="tableClientesEncuestaRealizada" msprop:Generator_TablePropName="ClientesEncuestaRealizada" msprop:Generator_RowDeletingName="ClientesEncuestaRealizadaRowDeleting" msprop:Generator_RowChangingName="ClientesEncuestaRealizadaRowChanging" msprop:Generator_RowEvHandlerName="ClientesEncuestaRealizadaRowChangeEventHandler" msprop:Generator_RowDeletedName="ClientesEncuestaRealizadaRowDeleted" msprop:Generator_UserTableName="ClientesEncuestaRealizada" msprop:Generator_RowChangedName="ClientesEncuestaRealizadaRowChanged" msprop:Generator_RowEvArgName="ClientesEncuestaRealizadaRowChangeEvent" msprop:Generator_RowClassName="ClientesEncuestaRealizadaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdEncuesta" msprop:Generator_ColumnVarNameInTable="columnIdEncuesta" msprop:Generator_ColumnPropNameInRow="IdEncuesta" msprop:Generator_ColumnPropNameInTable="IdEncuestaColumn" msprop:Generator_UserColumnName="IdEncuesta" type="xs:int" />
+              <xs:element name="sDescripcion" msprop:Generator_ColumnVarNameInTable="columnsDescripcion" msprop:Generator_ColumnPropNameInRow="sDescripcion" msprop:Generator_ColumnPropNameInTable="sDescripcionColumn" msprop:Generator_UserColumnName="sDescripcion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="iIdDelegado" msprop:Generator_ColumnVarNameInTable="columniIdDelegado" msprop:Generator_ColumnPropNameInRow="iIdDelegado" msprop:Generator_ColumnPropNameInTable="iIdDelegadoColumn" msprop:Generator_UserColumnName="iIdDelegado" type="xs:int" />
+              <xs:element name="sIdCliente" msprop:Generator_ColumnVarNameInTable="columnsIdCliente" msprop:Generator_ColumnPropNameInRow="sIdCliente" msprop:Generator_ColumnPropNameInTable="sIdClienteColumn" msprop:Generator_UserColumnName="sIdCliente">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sNombre" msprop:Generator_ColumnVarNameInTable="columnsNombre" msprop:Generator_ColumnPropNameInRow="sNombre" msprop:Generator_ColumnPropNameInTable="sNombreColumn" msprop:Generator_UserColumnName="sNombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sClasificacion" msprop:Generator_ColumnVarNameInTable="columnsClasificacion" msprop:Generator_ColumnPropNameInRow="sClasificacion" msprop:Generator_ColumnPropNameInTable="sClasificacionColumn" msprop:Generator_UserColumnName="sClasificacion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ClientesEncuestaPendiente" msprop:Generator_TableClassName="ClientesEncuestaPendienteDataTable" msprop:Generator_TableVarName="tableClientesEncuestaPendiente" msprop:Generator_TablePropName="ClientesEncuestaPendiente" msprop:Generator_RowDeletingName="ClientesEncuestaPendienteRowDeleting" msprop:Generator_RowChangingName="ClientesEncuestaPendienteRowChanging" msprop:Generator_RowEvHandlerName="ClientesEncuestaPendienteRowChangeEventHandler" msprop:Generator_RowDeletedName="ClientesEncuestaPendienteRowDeleted" msprop:Generator_UserTableName="ClientesEncuestaPendiente" msprop:Generator_RowChangedName="ClientesEncuestaPendienteRowChanged" msprop:Generator_RowEvArgName="ClientesEncuestaPendienteRowChangeEvent" msprop:Generator_RowClassName="ClientesEncuestaPendienteRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdEncuesta" msprop:Generator_ColumnVarNameInTable="columnIdEncuesta" msprop:Generator_ColumnPropNameInRow="IdEncuesta" msprop:Generator_ColumnPropNameInTable="IdEncuestaColumn" msprop:Generator_UserColumnName="IdEncuesta" type="xs:int" />
+              <xs:element name="sDescripcion" msprop:Generator_ColumnVarNameInTable="columnsDescripcion" msprop:Generator_ColumnPropNameInRow="sDescripcion" msprop:Generator_ColumnPropNameInTable="sDescripcionColumn" msprop:Generator_UserColumnName="sDescripcion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="iIdDelegado" msprop:Generator_ColumnVarNameInTable="columniIdDelegado" msprop:Generator_ColumnPropNameInRow="iIdDelegado" msprop:Generator_ColumnPropNameInTable="iIdDelegadoColumn" msprop:Generator_UserColumnName="iIdDelegado" type="xs:int" />
+              <xs:element name="sIdCliente" msprop:Generator_ColumnVarNameInTable="columnsIdCliente" msprop:Generator_ColumnPropNameInRow="sIdCliente" msprop:Generator_ColumnPropNameInTable="sIdClienteColumn" msprop:Generator_UserColumnName="sIdCliente">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sNombre" msprop:Generator_ColumnVarNameInTable="columnsNombre" msprop:Generator_ColumnPropNameInRow="sNombre" msprop:Generator_ColumnPropNameInTable="sNombreColumn" msprop:Generator_UserColumnName="sNombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sClasificacion" msprop:Generator_ColumnVarNameInTable="columnsClasificacion" msprop:Generator_ColumnPropNameInRow="sClasificacion" msprop:Generator_ColumnPropNameInTable="sClasificacionColumn" msprop:Generator_UserColumnName="sClasificacion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DatosEncuestasClienteKey1">
+      <xs:selector xpath=".//mstns:DatosEncuestasCliente" />
+      <xs:field xpath="mstns:idEncuesta" />
+      <xs:field xpath="mstns:idPregunta" />
+      <xs:field xpath="mstns:idRespuesta" />
+    </xs:unique>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:EncuestasActivas" />
+      <xs:field xpath="mstns:IdEncuesta" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="-1840" viewPortTop="55286" zoom="100">
+    <Clientes_XmlElement left="1296" top="476" width="5292" height="5504" selected="0" zOrder="64" index="0" expanded="1" />
+    <Clientes_COM_XmlElement left="12277" top="556" width="5291" height="7620" selected="0" zOrder="65" index="1" expanded="1" />
+    <AficClientes_COM_XmlElement left="6826" top="4260" width="5292" height="2963" selected="0" zOrder="66" index="2" expanded="1" />
+    <EspecClientes_COM_XmlElement left="6826" top="7302" width="5292" height="2963" selected="0" zOrder="67" index="3" expanded="1" />
+    <ProdClientes_COM_XmlElement left="12329" top="8149" width="5292" height="3387" selected="0" zOrder="68" index="4" expanded="1" />
+    <AccionesMarkClientes_XmlElement left="17833" top="714" width="5291" height="4657" selected="0" zOrder="69" index="5" expanded="1" />
+    <Clientes_SAP_XmlElement left="1349" top="12621" width="5291" height="13970" selected="0" zOrder="70" index="6" expanded="1" />
+    <Centros_XmlElement left="14737" top="13123" width="5292" height="8043" selected="0" zOrder="71" index="7" expanded="1" />
+    <Pedidos_Cab_XmlElement left="24288" top="847" width="5292" height="10160" selected="0" zOrder="16" index="8" expanded="1" />
+    <Pedidos_Lin_XmlElement left="31246" top="979" width="5292" height="6350" selected="0" zOrder="17" index="9" expanded="1" />
+    <RepActividad_Cab_XmlElement left="29606" top="14499" width="5292" height="7197" selected="0" zOrder="22" index="10" expanded="1" />
+    <RepActividad_Cli_XmlElement left="22886" top="14367" width="5292" height="3810" selected="0" zOrder="23" index="11" expanded="1" />
+    <RepActividadCli_ProxObj_XmlElement left="22860" top="18282" width="5291" height="3387" selected="0" zOrder="28" index="12" expanded="1" />
+    <RepActividad_Ped_XmlElement left="37353" top="14623" width="5292" height="2963" selected="0" zOrder="38" index="13" expanded="1" />
+    <RepActividad_Gad_XmlElement left="22997" top="21899" width="5292" height="2963" selected="0" zOrder="33" index="14" expanded="1" />
+    <RepActividad_Aten_XmlElement left="23051" top="25100" width="5292" height="2963" selected="0" zOrder="48" index="15" expanded="1" />
+    <RepActividad_Prom_XmlElement left="37378" top="17737" width="5292" height="2963" selected="0" zOrder="43" index="16" expanded="1" />
+    <AtencionesComerciales_XmlElement left="6032" top="25399" width="7356" height="12276" selected="0" zOrder="72" index="17" expanded="1" />
+    <NotasGastos_XmlElement left="37544" top="23839" width="5291" height="5926" selected="0" zOrder="53" index="18" expanded="1" />
+    <NotasGastos_Lin_XmlElement left="29791" top="26669" width="5292" height="3810" selected="0" zOrder="59" index="19" expanded="1" />
+    <AtencionesNotasGastos_XmlElement left="30770" top="22648" width="5292" height="3810" selected="0" zOrder="54" index="20" expanded="1" />
+    <Bricks_XmlElement left="14869" top="27596" width="5292" height="4233" selected="0" zOrder="73" index="21" expanded="1" />
+    <Delegados_XmlElement left="21933" top="28495" width="5292" height="6773" selected="0" zOrder="74" index="22" expanded="1" />
+    <Gastos_XmlElement left="-344" top="39396" width="5292" height="6773" selected="0" zOrder="75" index="23" expanded="1" />
+    <PeriodosPresupuestos_XmlElement left="5450" top="39502" width="5292" height="3810" selected="0" zOrder="76" index="24" expanded="1" />
+    <Presupuestos_XmlElement left="11006" top="39581" width="5292" height="4233" selected="0" zOrder="77" index="25" expanded="1" />
+    <CodigosPostales_XmlElement left="5530" top="43444" width="5291" height="2117" selected="0" zOrder="78" index="26" expanded="1" />
+    <BrickCodigoPostal_XmlElement left="11139" top="43973" width="5291" height="3387" selected="0" zOrder="79" index="27" expanded="1" />
+    <AgendaObserv_XmlElement left="21884" top="39992" width="5292" height="2963" selected="0" zOrder="80" index="28" expanded="1" />
+    <RedesComerciales_XmlElement left="5478" top="45523" width="5292" height="2963" selected="0" zOrder="81" index="29" expanded="1" />
+    <Poblaciones_XmlElement left="11192" top="47466" width="5291" height="3386" selected="0" zOrder="82" index="30" expanded="1" />
+    <Materiales_XmlElement left="5503" top="48549" width="5292" height="8467" selected="0" zOrder="1" index="31" expanded="1" />
+    <Divisiones_XmlElement left="-422" top="46152" width="5292" height="2963" selected="0" zOrder="83" index="32" expanded="1" />
+    <Productos_XmlElement left="11245" top="50826" width="5291" height="3810" selected="0" zOrder="2" index="33" expanded="1" />
+    <AccionesMarketing_XmlElement left="21933" top="43047" width="5292" height="7197" selected="0" zOrder="84" index="34" expanded="1" />
+    <AccionesRedes_XmlElement left="27516" top="43206" width="5292" height="3387" selected="0" zOrder="85" index="35" expanded="1" />
+    <TiposPosPedidosSAP_XmlElement left="21801" top="50429" width="5292" height="4233" selected="0" zOrder="86" index="36" expanded="1" />
+    <Tipos_XmlElement left="18951" top="55716" width="5292" height="2963" selected="0" zOrder="88" index="37" expanded="1" />
+    <LineasTipos_XmlElement left="12885" top="55853" width="5291" height="3810" selected="0" zOrder="4" index="38" expanded="1" />
+    <GetFechasBajada_XmlElement left="28945" top="32094" width="5291" height="3809" selected="0" zOrder="90" index="39" expanded="1" />
+    <Errores_XmlElement left="37094" top="31028" width="5292" height="2963" selected="0" zOrder="91" index="40" expanded="1" />
+    <GetSincroUpdates_XmlElement left="38337" top="1979" width="5292" height="2963" selected="0" zOrder="92" index="41" expanded="1" />
+    <TipoCargoDelegado_XmlElement left="212" top="29765" width="5291" height="7197" selected="0" zOrder="93" index="42" expanded="1" />
+    <Configuracion_XmlElement left="457" top="57353" width="5292" height="2963" selected="0" zOrder="6" index="43" expanded="1" />
+    <Provincias_XmlElement left="6543" top="57456" width="5292" height="2963" selected="0" zOrder="8" index="44" expanded="1" />
+    <ClientesRedes_XmlElement left="6826" top="53" width="5292" height="4234" selected="0" zOrder="94" index="45" expanded="1" />
+    <BrickClientes_XmlElement left="17991" top="5477" width="5292" height="3387" selected="0" zOrder="95" index="46" expanded="1" />
+    <CPClientes_XmlElement left="18335" top="9234" width="5292" height="3810" selected="0" zOrder="96" index="47" expanded="1" />
+    <CentrosClientes_COM_XmlElement left="1535" top="6138" width="5291" height="4657" selected="0" zOrder="97" index="48" expanded="1" />
+    <CentrosRedes_XmlElement left="14737" top="21379" width="5292" height="3810" selected="0" zOrder="98" index="49" expanded="1" />
+    <DelegadoBrick_XmlElement left="14949" top="32809" width="5291" height="3810" selected="0" zOrder="99" index="50" expanded="1" />
+    <ContactosClientes_SAP_XmlElement left="7488" top="12833" width="5291" height="4656" selected="0" zOrder="100" index="51" expanded="1" />
+    <CentrosClientes_SAP_XmlElement left="7461" top="17542" width="5292" height="3810" selected="0" zOrder="101" index="52" expanded="1" />
+    <InterlocutorClientes_SAP_XmlElement left="7646" top="21564" width="5292" height="3810" selected="0" zOrder="102" index="53" expanded="1" />
+    <SolicitudGadget_XmlElement left="28839" top="51831" width="5292" height="6350" selected="0" zOrder="103" index="54" expanded="1" />
+    <EspecialidadesDelegado_XmlElement left="-390" top="49261" width="5292" height="2963" selected="0" zOrder="104" index="55" expanded="1" />
+    <EspecialidadesRedes_XmlElement left="-311" top="52276" width="5292" height="2963" selected="0" zOrder="10" index="56" expanded="1" />
+    <PromocionesRedes_XmlElement left="18951" top="58935" width="5292" height="2963" selected="0" zOrder="105" index="57" expanded="1" />
+    <EstructuraComercial_XmlElement left="16543" top="42137" width="5292" height="2963" selected="0" zOrder="107" index="58" expanded="1" />
+    <Parrilla_XmlElement left="26452" top="58453" width="5292" height="2963" selected="0" zOrder="108" index="59" expanded="1" />
+    <MaterialParrilla_XmlElement left="26796" top="62818" width="5292" height="2963" selected="0" zOrder="109" index="60" expanded="1" />
+    <MaterialCamp_XmlElement left="19262" top="63630" width="6138" height="3810" selected="0" zOrder="110" index="61" expanded="1" />
+    <AtencionesProductos_XmlElement left="-840" top="26692" width="5292" height="2963" selected="0" zOrder="112" index="62" expanded="1" />
+    <Descuento_Campanyas_XmlElement left="32861" top="37333" width="10212" height="2963" selected="0" zOrder="113" index="63" expanded="1" />
+    <CampanyasMultiples_XmlElement left="35533" top="42096" width="8837" height="2116" selected="0" zOrder="114" index="64" expanded="1" />
+    <CampanyasPedido_XmlElement left="36009" top="44239" width="8467" height="2116" selected="0" zOrder="115" index="65" expanded="1" />
+    <MaterialRentabilidad_XmlElement left="10708" top="62106" width="5292" height="2963" selected="0" zOrder="12" index="66" expanded="1" />
+    <SincroEstructuraPDA_XmlElement left="450" top="60772" width="8308" height="3387" selected="0" zOrder="14" index="67" expanded="1" />
+    <TramosRentabilidad_XmlElement left="450" top="64159" width="7409" height="4233" selected="0" zOrder="116" index="68" expanded="1" />
+    <RepActividad_CabRepActividad_Gad_XmlKeyref left="28696" top="20487" width="503" height="503" selected="0" zOrder="34" />
+    <RepActividad_CabRepActividadCli_ProxObj_XmlKeyref left="28627" top="18785" width="503" height="503" selected="0" zOrder="29" />
+    <Pedidos_CabPedidos_Lin_XmlKeyref left="29936" top="3677" width="503" height="503" selected="0" zOrder="18" />
+    <RepActividad_CabRepActividad_Cli_XmlKeyref left="28641" top="16933" width="503" height="503" selected="0" zOrder="24" />
+    <NotasGastosNotasGastos_Lin_XmlKeyref left="36089" top="28298" width="503" height="503" selected="0" zOrder="60" />
+    <NotasGastosAtencionesNotasGastos_XmlKeyref left="36552" top="25426" width="503" height="503" selected="0" zOrder="55" />
+    <RepActividad_CabRepActividad_Aten_XmlKeyref left="28723" top="22088" width="503" height="503" selected="0" zOrder="49" />
+    <RepActividad_CabRepActividad_Prom_XmlKeyref left="35913" top="18088" width="503" height="503" selected="0" zOrder="44" />
+    <RepActividad_CabRepActividad_Ped_XmlKeyref left="35451" top="16023" width="503" height="503" selected="0" zOrder="39" />
+</XSDDesignerLayout>

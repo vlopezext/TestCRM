@@ -1,0 +1,1300 @@
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\GESTCRMCL.exe.config
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRMCL.exe
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRMCL.pdb
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.frmSplash.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\Desarrollo 2008\GESTCRMCL\obj\Debug\GESTCRM.csproj.GenerateResource.Cache
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\GESTCRMCL.exe
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\GESTCRMCL.pdb
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\CompressionExtension.dll
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\ControlesPersonalizados.dll
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\mscorcfg.dll
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\ZIPLib.dll
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\CompressionExtension.pdb
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\ZIPLib.pdb
+C:\Desarrollo 2008\GESTCRMCL\bin\Debug\ControlesPersonalizados.pdb
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.Cache
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\mscorcfg.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\CompressionExtension.pdb
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Debug\ControlesPersonalizados.pdb
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\flash.swf
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\mscorcfg.dll
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\CompressionExtension.pdb
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\bin\Debug\ControlesPersonalizados.pdb
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSplash.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\Desarrollo 2008\GESTCRMCL new\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.Cache
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\mscorcfg.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\ControlesPersonalizados.pdb
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Debug\CompressionExtension.pdb
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\ResolveAssemblyReference.cache
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.Cache
+E:\Stada\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRMCL.exe
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRMCL.pdb
+E:\Stada\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.exe
+E:\Stada\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.pdb
+E:\Stada\GESTCRMCL\GESTCRM\bin\Debug\CompressionExtension.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Debug\mscorcfg.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\ResolveAssemblyReference.cache
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.Cache
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.exe
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.pdb
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\CompressionExtension.dll
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csprojResolveAssemblyReference.cache
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAlarmasVisitas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAutopedAccMark.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVentas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmCopiarPedido.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmImportarPedido.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmMatsConVale.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPropuestaPedido.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmStocks.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.Cache
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRMCL.exe
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRMCL.pdb
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesInterloc.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMarkCon.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAlarmasVisitas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAutopedAccMark.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.txtbLeyenda.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVentas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmCopiarPedido.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmImportarPedido.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmMatsConVale.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPropuestaPedido.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmStocks.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.Cache
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmEncuesta.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaEncuestas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.Core.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.barcodes.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.forms.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.io.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.kernel.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.layout.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.pdfa.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.sign.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.styledxmlparser.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.svg.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\BouncyCastle.Crypto.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.pdb
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.Core.pdb
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.Core.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.barcodes.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.forms.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.io.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.kernel.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.layout.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.pdfa.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.sign.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.styledxmlparser.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.svg.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Debug\ControlesPersonalizados.dll.config
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.CoreCompileInputs.cache
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.CopyComplete
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphPuntos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.AssemblyReference.cache
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.Core.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.barcodes.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.forms.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.io.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.kernel.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.layout.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.pdfa.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.sign.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.styledxmlparser.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.svg.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\ControlesPersonalizados.dll.config
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\BouncyCastle.Crypto.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.pdb
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.Core.pdb
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.Core.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.barcodes.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.forms.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.io.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.kernel.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.layout.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.pdfa.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.sign.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.styledxmlparser.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.svg.xml
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.AssemblyReference.cache
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesInterloc.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMarkCon.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAlarmasVisitas.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAutopedAccMark.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.txtbLeyenda.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaEncuestas.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVentas.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmCopiarPedido.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmEncuesta.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphPuntos.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmImportarPedido.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmMatsConVale.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPropuestaPedido.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmStocks.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.cache
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.CoreCompileInputs.cache
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.CopyComplete
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.Core.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.barcodes.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.forms.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.io.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.kernel.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.layout.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.pdfa.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.sign.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.styledxmlparser.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.svg.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\ControlesPersonalizados.dll.config
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\BouncyCastle.Crypto.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.pdb
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.Core.pdb
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\Common.Logging.Core.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\DocumentFormat.OpenXml.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.barcodes.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.forms.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.io.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.kernel.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.layout.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.pdfa.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.sign.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.styledxmlparser.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\bin\Debug\itext.svg.xml
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.AssemblyReference.cache
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesInterloc.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMarkCon.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAlarmasVisitas.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAutopedAccMark.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.txtbLeyenda.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaEncuestas.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVentas.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmCopiarPedido.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmEncuesta.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphPuntos.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmImportarPedido.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmMatsConVale.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPropuestaPedido.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmStocks.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.cache
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.CoreCompileInputs.cache
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRM.csproj.CopyComplete
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\1 STADA\Projects\Source\GESTCRMCL_CH\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\Common.Logging.Core.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\Common.Logging.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.barcodes.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.forms.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.io.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.kernel.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.layout.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.pdfa.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.sign.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.styledxmlparser.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.svg.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\ControlesPersonalizados.dll.config
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\BouncyCastle.Crypto.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\Common.Logging.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\Common.Logging.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\Common.Logging.Core.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\Common.Logging.Core.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\DocumentFormat.OpenXml.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.barcodes.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.forms.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.io.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.kernel.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.layout.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.pdfa.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.sign.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.styledxmlparser.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\bin\Debug\itext.svg.xml
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.csproj.AssemblyReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesInterloc.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMarkCon.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAlarmasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.txtbLeyenda.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaEncuestas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVentas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmCopiarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmEncuesta.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphPuntos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmImportarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmMatsConVale.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPropuestaPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmStocks.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.cache
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.csproj.CoreCompileInputs.cache
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRM.csproj.CopyComplete
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL_v65\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\Common.Logging.Core.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\Common.Logging.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.barcodes.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.forms.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.io.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.kernel.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.layout.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.pdfa.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.sign.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.styledxmlparser.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.svg.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\ControlesPersonalizados.dll.config
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\BouncyCastle.Crypto.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\Common.Logging.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\Common.Logging.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\Common.Logging.Core.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\Common.Logging.Core.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.barcodes.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.forms.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.io.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.kernel.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.layout.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.pdfa.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.sign.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.styledxmlparser.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\bin\Debug\itext.svg.xml
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.AssemblyReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesInterloc.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMarkCon.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAlarmasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.txtbLeyenda.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaEncuestas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVentas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmCopiarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmEncuesta.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphPuntos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmImportarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmMatsConVale.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPropuestaPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmStocks.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.cache
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.CoreCompileInputs.cache
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRM.csproj.CopyComplete
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\Common.Logging.Core.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\Common.Logging.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.barcodes.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.forms.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.io.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.kernel.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.layout.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.pdfa.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.sign.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.styledxmlparser.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.svg.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\ControlesPersonalizados.dll.config
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\BouncyCastle.Crypto.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\Common.Logging.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\Common.Logging.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\Common.Logging.Core.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\Common.Logging.Core.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.barcodes.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.forms.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.io.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.kernel.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.layout.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.pdfa.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.sign.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.styledxmlparser.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\bin\Debug\itext.svg.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.csproj.AssemblyReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesInterloc.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMarkCon.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAlarmasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.txtbLeyenda.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaEncuestas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVentas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmCopiarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmEncuesta.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphPuntos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmImportarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmMatsConVale.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPropuestaPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmStocks.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.csproj.CoreCompileInputs.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRM.csproj.CopyComplete
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\Common.Logging.Core.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\Common.Logging.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.barcodes.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.forms.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.io.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.kernel.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.layout.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.pdfa.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.sign.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.styledxmlparser.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.svg.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\ControlesPersonalizados.dll.config
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\BouncyCastle.Crypto.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\Common.Logging.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\Common.Logging.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\Common.Logging.Core.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\Common.Logging.Core.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.barcodes.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.forms.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.io.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.kernel.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.layout.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.pdfa.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.sign.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.styledxmlparser.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\bin\Debug\itext.svg.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.csproj.AssemblyReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesInterloc.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMarkCon.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAlarmasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.txtbLeyenda.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaEncuestas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVentas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmCopiarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmEncuesta.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphPuntos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmImportarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmMatsConVale.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPropuestaPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmStocks.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.csproj.CoreCompileInputs.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRM.csproj.CopyComplete
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL - NoDescMedio - BAK - copia (2)\GESTCRM\obj\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\GESTCRMCL.exe.config
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\GESTCRMCL.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\Common.Logging.Core.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\Common.Logging.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\CompressionExtension.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\ControlesPersonalizados.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.barcodes.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.forms.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.io.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.kernel.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.layout.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.pdfa.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.sign.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.styledxmlparser.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.svg.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\ControlesPersonalizados.dll.config
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\BouncyCastle.Crypto.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\Common.Logging.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\Common.Logging.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\Common.Logging.Core.pdb
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\Common.Logging.Core.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.barcodes.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.forms.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.io.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.kernel.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.layout.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.pdfa.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.sign.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.styledxmlparser.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\bin\Debug\itext.svg.xml
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.csproj.AssemblyReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.csproj.ResolveComReference.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmBase.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmDialog.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesInterloc.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMarkCon.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAbout.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAlarmasVisitas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmAutopedAccMark.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmClientes.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.txtbLeyenda.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaEncuestas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaReport.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVentas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmCopiarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmEncuesta.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGastos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphPuntos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmHoras.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmImportarPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmLogin.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmMatsConVale.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmNIFCC.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPedidos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPopup.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPresupuestos.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPrincipal.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmProcesando.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmPropuestaPedido.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmReporting.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmRestore.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincro.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmSincroPDA.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmStocks.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.frmTip.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowError.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowInfo.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.ShowQuestion.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Formularios.SincroResult.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.Properties.Resources.resources
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.csproj.GenerateResource.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.csproj.CoreCompileInputs.cache
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRM.csproj.CopyComplete
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRMCL.exe
+C:\1. STADA\Projects\Source\GESTCRMCL - ELBO\GESTCRM\obj\Debug\GESTCRMCL.pdb

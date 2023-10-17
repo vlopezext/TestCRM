@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<dsDatosCLI xmlns="http://www.tempuri.org/dsDatosPDA.xsd">
+  <Configuracion>
+    <iIdConfig>55</iIdConfig>
+    <sConfig>iUIVisitaPDA</sConfig>
+    <sValor>004579</sValor>
+    <dFUM>2010-03-04T12:41:14+01:00</dFUM>
+  </Configuracion>
+  <RepActividad_Cab>
+    <iIdReport>888004579</iIdReport>
+    <iIdDelegado>248</iIdDelegado>
+    <sIdReportTemp>P0248004579</sIdReportTemp>
+    <sTipoRActividad>1</sTipoRActividad>
+    <sIdTipoCliente>C</sIdTipoCliente>
+    <iIdCentro>55188</iIdCentro>
+    <dFecha>2010-03-04T12:00:00+01:00</dFecha>
+    <iHorario>1</iHorario>
+    <tObservaciones>prueba creada en la pda...</tObservaciones>
+    <bPlanificacion>0</bPlanificacion>
+    <dFUM>2010-03-04T13:11:39+01:00</dFUM>
+    <iEstado>0</iEstado>
+    <bEnviadoCli>0</bEnviadoCli>
+    <dHoraInicio>2010-03-04T12:55:00+01:00</dHoraInicio>
+    <dHoraFin>2010-03-04T01:00:00+01:00</dHoraFin>
+  </RepActividad_Cab>
+  <RepActividad_Cli>
+    <iIdReport>888004579</iIdReport>
+    <iIdCliente>112294</iIdCliente>
+    <bSustituto>false</bSustituto>
+  </RepActividad_Cli>
+</dsDatosCLI>

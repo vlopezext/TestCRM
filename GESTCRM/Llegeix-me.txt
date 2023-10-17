@@ -1,0 +1,40 @@
+Recordar que quan es faci algun canvi als datasets de config, dsdatospda o dsdatoscli, s'hauràn de copiar
+els xsd al directori sincrofiles, per tal que la sincronització sigui correcte, ja que com que quan s'actualitza
+l'aplicació als usuaris no es fa amb un msi, ho hem de fer d'aquesta manera.
+SI AFEGIM TAULES a dsDatosPDA recordar que cal modificar this.pgbProgreso.Maximum a Login.cs de laplicació de PDA
+
+
+
+Ricard Hortigüela Estrada (altran)  28 octubre 2008 :
+
+
+Cuando se actualiza la referencia web del webservice de sincronización con central, se rehace el archivo 
+reference.cs.
+
+Ello conlleva que los metatag de compresión desaparezca, no dará ningún error de complicación, pero al ejectuarlo 
+nos aparecerà un error que serà un texto codificado en base64 el cual no tendrà ningún sentido para nosotros.
+
+Para solventar este problema cada vez que se actualice la referencia web, deberemos poner de nuevo el metatag 
+
+[MasterCSharp.WebServices.CompressionExtension]
+
+Encima de los procedimientos que corresponda, en este caso serán :
+
+	· RecibirDeCentral
+	· EndRecibirDeCentral
+	· EnviarACentral
+	· EndEnviarACentral
+	· FinSincro
+	· EndFinSincro
+
+//RH
+Buscar todos "[MasterCSharp.WebServices.CompressionExtension]", Oculto, Resultados de la búsqueda 1, Documento actual
+  C:\Desarrollo 2008\GESTCRMCL\GESTCRM\Referencias Web\WSSinCRM\Reference.cs(112):        [MasterCSharp.WebServices.CompressionExtension]
+  C:\Desarrollo 2008\GESTCRMCL\GESTCRM\Referencias Web\WSSinCRM\Reference.cs(127):        [MasterCSharp.WebServices.CompressionExtension]
+  C:\Desarrollo 2008\GESTCRMCL\GESTCRM\Referencias Web\WSSinCRM\Reference.cs(155):        [MasterCSharp.WebServices.CompressionExtension]
+  C:\Desarrollo 2008\GESTCRMCL\GESTCRM\Referencias Web\WSSinCRM\Reference.cs(172):        [MasterCSharp.WebServices.CompressionExtension]
+  C:\Desarrollo 2008\GESTCRMCL\GESTCRM\Referencias Web\WSSinCRM\Reference.cs(289):        [MasterCSharp.WebServices.CompressionExtension]
+  C:\Desarrollo 2008\GESTCRMCL\GESTCRM\Referencias Web\WSSinCRM\Reference.cs(311):        [MasterCSharp.WebServices.CompressionExtension]
+Líneas coincidentes: 6
+  
+  

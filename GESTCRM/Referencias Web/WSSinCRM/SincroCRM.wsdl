@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://STADACRM/CRMWebService/WSSinCRM/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://STADACRM/CRMWebService/WSSinCRM/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Sincronización de Información entre Aplicacion GESTCRM y Central</wsdl:documentation>
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://STADACRM/CRMWebService/WSSinCRM/">
+      <s:import namespace="http://STADACRM/dsCentral.xsd" />
+      <s:import namespace="http://STADACRM/dsCliente.xsd" />
+      <s:import namespace="http://STADACRM/dsRetorno.xsd" />
+      <s:import schemaLocation="http://localhost/WsDotNet2/WsSinCrmV10/SincroCRM.asmx?schema=dsCentral" namespace="http://STADACRM/dsCentral.xsd" />
+      <s:import schemaLocation="http://localhost/WsDotNet2/WsSinCrmV10/SincroCRM.asmx?schema=dsCliente" namespace="http://STADACRM/dsCliente.xsd" />
+      <s:import schemaLocation="http://localhost/WsDotNet2/WsSinCrmV10/SincroCRM.asmx?schema=dsRetorno" namespace="http://STADACRM/dsRetorno.xsd" />
+      <s:element name="RecibirDeCentral">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="iIdDelegado" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RecibirDeCentralResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RecibirDeCentralResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any namespace="http://STADACRM/dsCentral.xsd" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnviarACentral">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="iIdDelegado" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="dsEnvio">
+              <s:complexType>
+                <s:sequence>
+                  <s:any namespace="http://STADACRM/dsCliente.xsd" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnviarACentralResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EnviarACentralResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any namespace="http://STADACRM/dsRetorno.xsd" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IniSincro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="iIdDelegado" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="FechaInicio" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="AppVersion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IniSincroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IniSincroResult" type="tns:ArrayOfAnyType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfAnyType">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="anyType" nillable="true" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="PermisosSubida">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="iIdDelegado" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PermisosSubidaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="PermisosSubidaResult" type="tns:ArrayOfAnyType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FinSincro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="iIdDelegado" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="dFechaHoraIni" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="dsUP">
+              <s:complexType>
+                <s:sequence>
+                  <s:any namespace="http://STADACRM/dsRetorno.xsd" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+            <s:element minOccurs="0" maxOccurs="1" name="dsDown">
+              <s:complexType>
+                <s:sequence>
+                  <s:any namespace="http://STADACRM/dsRetorno.xsd" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+            <s:element minOccurs="1" maxOccurs="1" name="iIdSincro" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FinSincroResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetProgramUpdateData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sVersion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProgramUpdateDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetProgramUpdateDataResult" type="tns:ArrayOfAnyType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProgramUpdateImage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sVersion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProgramUpdateImageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetProgramUpdateImageResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ProgramUpdateOK">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="iIdDelegado" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sVersion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ProgramUpdateOKResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ProgramUpdateOKResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="RecibirDeCentralSoapIn">
+    <wsdl:part name="parameters" element="tns:RecibirDeCentral" />
+  </wsdl:message>
+  <wsdl:message name="RecibirDeCentralSoapOut">
+    <wsdl:part name="parameters" element="tns:RecibirDeCentralResponse" />
+  </wsdl:message>
+  <wsdl:message name="EnviarACentralSoapIn">
+    <wsdl:part name="parameters" element="tns:EnviarACentral" />
+  </wsdl:message>
+  <wsdl:message name="EnviarACentralSoapOut">
+    <wsdl:part name="parameters" element="tns:EnviarACentralResponse" />
+  </wsdl:message>
+  <wsdl:message name="IniSincroSoapIn">
+    <wsdl:part name="parameters" element="tns:IniSincro" />
+  </wsdl:message>
+  <wsdl:message name="IniSincroSoapOut">
+    <wsdl:part name="parameters" element="tns:IniSincroResponse" />
+  </wsdl:message>
+  <wsdl:message name="PermisosSubidaSoapIn">
+    <wsdl:part name="parameters" element="tns:PermisosSubida" />
+  </wsdl:message>
+  <wsdl:message name="PermisosSubidaSoapOut">
+    <wsdl:part name="parameters" element="tns:PermisosSubidaResponse" />
+  </wsdl:message>
+  <wsdl:message name="FinSincroSoapIn">
+    <wsdl:part name="parameters" element="tns:FinSincro" />
+  </wsdl:message>
+  <wsdl:message name="FinSincroSoapOut">
+    <wsdl:part name="parameters" element="tns:FinSincroResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetProgramUpdateDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetProgramUpdateData" />
+  </wsdl:message>
+  <wsdl:message name="GetProgramUpdateDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetProgramUpdateDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetProgramUpdateImageSoapIn">
+    <wsdl:part name="parameters" element="tns:GetProgramUpdateImage" />
+  </wsdl:message>
+  <wsdl:message name="GetProgramUpdateImageSoapOut">
+    <wsdl:part name="parameters" element="tns:GetProgramUpdateImageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ProgramUpdateOKSoapIn">
+    <wsdl:part name="parameters" element="tns:ProgramUpdateOK" />
+  </wsdl:message>
+  <wsdl:message name="ProgramUpdateOKSoapOut">
+    <wsdl:part name="parameters" element="tns:ProgramUpdateOKResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SincroCRMSoap">
+    <wsdl:operation name="RecibirDeCentral">
+      <wsdl:input message="tns:RecibirDeCentralSoapIn" />
+      <wsdl:output message="tns:RecibirDeCentralSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EnviarACentral">
+      <wsdl:input message="tns:EnviarACentralSoapIn" />
+      <wsdl:output message="tns:EnviarACentralSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IniSincro">
+      <wsdl:input message="tns:IniSincroSoapIn" />
+      <wsdl:output message="tns:IniSincroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="PermisosSubida">
+      <wsdl:input message="tns:PermisosSubidaSoapIn" />
+      <wsdl:output message="tns:PermisosSubidaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FinSincro">
+      <wsdl:input message="tns:FinSincroSoapIn" />
+      <wsdl:output message="tns:FinSincroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProgramUpdateData">
+      <wsdl:input message="tns:GetProgramUpdateDataSoapIn" />
+      <wsdl:output message="tns:GetProgramUpdateDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProgramUpdateImage">
+      <wsdl:input message="tns:GetProgramUpdateImageSoapIn" />
+      <wsdl:output message="tns:GetProgramUpdateImageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ProgramUpdateOK">
+      <wsdl:input message="tns:ProgramUpdateOKSoapIn" />
+      <wsdl:output message="tns:ProgramUpdateOKSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SincroCRMSoap" type="tns:SincroCRMSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RecibirDeCentral">
+      <soap:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/RecibirDeCentral" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarACentral">
+      <soap:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/EnviarACentral" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IniSincro">
+      <soap:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/IniSincro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PermisosSubida">
+      <soap:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/PermisosSubida" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinSincro">
+      <soap:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/FinSincro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProgramUpdateData">
+      <soap:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/GetProgramUpdateData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProgramUpdateImage">
+      <soap:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/GetProgramUpdateImage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProgramUpdateOK">
+      <soap:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/ProgramUpdateOK" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SincroCRMSoap12" type="tns:SincroCRMSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RecibirDeCentral">
+      <soap12:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/RecibirDeCentral" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarACentral">
+      <soap12:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/EnviarACentral" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IniSincro">
+      <soap12:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/IniSincro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PermisosSubida">
+      <soap12:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/PermisosSubida" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinSincro">
+      <soap12:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/FinSincro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProgramUpdateData">
+      <soap12:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/GetProgramUpdateData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProgramUpdateImage">
+      <soap12:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/GetProgramUpdateImage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProgramUpdateOK">
+      <soap12:operation soapAction="http://STADACRM/CRMWebService/WSSinCRM/ProgramUpdateOK" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SincroCRM">
+    <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Sincronización de Información entre Aplicacion GESTCRM y Central</wsdl:documentation>
+    <wsdl:port name="SincroCRMSoap" binding="tns:SincroCRMSoap">
+      <soap:address location="http://localhost/WsDotNet2/WsSinCrmV10/SincroCRM.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SincroCRMSoap12" binding="tns:SincroCRMSoap12">
+      <soap12:address location="http://localhost/WsDotNet2/WsSinCrmV10/SincroCRM.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

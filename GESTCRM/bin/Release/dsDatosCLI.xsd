@@ -1,0 +1,353 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="dsDatosCLI" targetNamespace="http://www.tempuri.org/dsDatosPDA.xsd" xmlns:mstns="http://www.tempuri.org/dsDatosPDA.xsd" xmlns="http://www.tempuri.org/dsDatosPDA.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="dsDatosCLI" msdata:IsDataSet="true" msdata:Locale="es-ES">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Pedidos_Cab">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sIdPedido" type="xs:string" />
+              <xs:element name="sIdPedidoTemp" type="xs:string" minOccurs="0" />
+              <xs:element name="iIdDelegado" type="xs:int" />
+              <xs:element name="sIdTipoPedido" type="xs:string" />
+              <xs:element name="sIdEstEntPedido" type="xs:string" minOccurs="0" />
+              <xs:element name="sIdEstFacPedido" type="xs:string" minOccurs="0" />
+              <xs:element name="iIdCliente" type="xs:int" />
+              <xs:element name="iIdDestinatario" type="xs:int" />
+              <xs:element name="dFechaPedido" type="xs:dateTime" />
+              <xs:element name="dFechaPreferente" type="xs:dateTime" />
+              <xs:element name="dFechaFijada" type="xs:dateTime" />
+              <xs:element name="sOrgVentas" type="xs:string" />
+              <xs:element name="sGrupoVendedor" type="xs:string" />
+              <xs:element name="sCanal" type="xs:string" />
+              <xs:element name="sSector" type="xs:string" />
+              <xs:element name="fImporte" type="xs:double" />
+              <xs:element name="fDescuento" type="xs:double" />
+              <xs:element name="sIdTipoCampanya" type="xs:string" minOccurs="0" />
+              <xs:element name="tObservaciones" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="iEstado" type="xs:short" />
+              <xs:element name="fFUM" type="xs:dateTime" />
+              <xs:element name="bEnviadoCli" type="xs:short" minOccurs="0" />
+              <xs:element name="fDescuentoCampanya" type="xs:double" minOccurs="0" />
+              <xs:element name="fDescuentoAdicional" type="xs:double" minOccurs="0" />
+              <xs:element name="fRentabilidad" type="xs:double" minOccurs="0" />
+              <xs:element name="iIdAccion" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Pedidos_Lin">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sIdPedido" type="xs:string" />
+              <xs:element name="iIdLinea" type="xs:int" />
+              <xs:element name="sIdMaterial" type="xs:string" />
+              <xs:element name="iCantidad" type="xs:int" />
+              <xs:element name="fPrecio" type="xs:double" />
+              <xs:element name="sidTipoPosicion" type="xs:string" />
+              <xs:element name="bEntregado" type="xs:boolean" />
+              <xs:element name="dFechaPreferente" type="xs:dateTime" />
+              <xs:element name="sCentro" type="xs:string" />
+              <xs:element name="sAlmacen" type="xs:string" />
+              <xs:element name="fDescuento" type="xs:double" />
+              <xs:element name="iBonificacion" type="xs:int" />
+              <xs:element name="idCampanya" type="xs:string" minOccurs="0" />
+              <xs:element name="idArrastre" type="xs:int" minOccurs="0" />
+              <xs:element name="idGrupoMat" type="xs:int" minOccurs="0" />
+              <xs:element name="idPaquete" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RepActividad_Cab">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdReport" type="xs:int" />
+              <xs:element name="iIdDelegado" type="xs:int" />
+              <xs:element name="sIdReportTemp" type="xs:string" minOccurs="0" />
+              <xs:element name="sTipoRActividad" type="xs:string" minOccurs="0" />
+              <xs:element name="sIdTipoCliente" type="xs:string" minOccurs="0" />
+              <xs:element name="iIdCentro" type="xs:int" minOccurs="0" />
+              <xs:element name="dFecha" type="xs:dateTime" />
+              <xs:element name="iHorario" type="xs:string" minOccurs="0" />
+              <xs:element name="tObjetivo" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="tProxObjetivo" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="tObservaciones" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="bPlanificacion" type="xs:short" />
+              <xs:element name="dFUM" type="xs:dateTime" />
+              <xs:element name="iEstado" type="xs:short" />
+              <xs:element name="bEnviadoCli" type="xs:short" minOccurs="0" />
+              <xs:element name="dHoraInicio" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dHoraFin" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RepActividad_Cli">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdReport" type="xs:int" />
+              <xs:element name="iIdCliente" type="xs:int" />
+              <xs:element name="tObservaciones" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="tObjetivos" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="tProxObj" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="bSustituto" type="xs:boolean" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RepActividad_Aten">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdReport" type="xs:int" />
+              <xs:element name="iIdCliente" type="xs:int" />
+              <xs:element name="iIdAtencion" type="xs:int" />
+              <xs:element name="iNumAtencion" type="xs:int" />
+              <xs:element name="fimporte" type="xs:double" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RepActividadCli_ProxObj">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdCentro" type="xs:int" />
+              <xs:element name="iIdCliente" type="xs:int" />
+              <xs:element name="iIdReport" type="xs:int" />
+              <xs:element name="tProxObj" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="dFecha" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RepActividad_Ped">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdReport" type="xs:int" />
+              <xs:element name="sIdPedido" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RepActividad_Gad">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdReport" type="xs:int" />
+              <xs:element name="iIdCliente" type="xs:int" />
+              <xs:element name="iIdAccion" type="xs:int" />
+              <xs:element name="iCantidad" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Configuracion">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdConfig" type="xs:long" minOccurs="0" />
+              <xs:element name="sConfig" type="xs:string" minOccurs="0" />
+              <xs:element name="sValor" type="xs:string" minOccurs="0" />
+              <xs:element name="dFUM" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AtencionesNotasGastos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdNota" type="xs:int" />
+              <xs:element name="iIdReport" type="xs:int" />
+              <xs:element name="iIdCliente" type="xs:int" />
+              <xs:element name="iIdAtencion" type="xs:int" />
+              <xs:element name="iNumAtencion" type="xs:int" />
+              <xs:element name="sIdReportTemp" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="NotasGastos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdNota" type="xs:int" />
+              <xs:element name="sIdNotaTemp" type="xs:string" minOccurs="0" />
+              <xs:element name="iIdDelegado" type="xs:int" minOccurs="0" />
+              <xs:element name="dFecha" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="bVisa" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="dFechaAprob" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="sUsuarioAprob" type="xs:string" minOccurs="0" />
+              <xs:element name="dFechaLiq" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="tObservaciones" type="xs:string" minOccurs="0" />
+              <xs:element name="dFUM" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="iEstado" type="xs:short" minOccurs="0" />
+              <xs:element name="bEnviadoPDA" type="xs:boolean" minOccurs="0" />
+              <xs:element name="bEnviadoCEN" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="NotasGastos_Lin">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdNota" type="xs:int" />
+              <xs:element name="iIdGasto" type="xs:int" />
+              <xs:element name="fCantidad" type="xs:double" minOccurs="0" />
+              <xs:element name="fPrecio" type="xs:double" minOccurs="0" />
+              <xs:element name="tDescripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="sIdCentroCoste" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AccionesMarkClientes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdAccion" type="xs:int" />
+              <xs:element name="iIdCliente" type="xs:int" />
+              <xs:element name="dFechaEntrega" type="xs:dateTime" />
+              <xs:element name="fCantidad" type="xs:double" minOccurs="0" />
+              <xs:element name="tObservaciones" type="xs:string" minOccurs="0" />
+              <xs:element name="sCCoste" type="xs:string" minOccurs="0" />
+              <xs:element name="dFUM" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="bEnviadoCLI" type="xs:boolean" minOccurs="0" />
+              <xs:element name="iEstado" type="xs:short" minOccurs="0" />
+              <xs:element name="iIdDelegado" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AtencionesComerciales">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdAtencion" type="xs:int" />
+              <xs:element name="sIdAtencionTemp" type="xs:string" minOccurs="0" />
+              <xs:element name="sIdAtencion" type="xs:string" minOccurs="0" />
+              <xs:element name="sDescripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="tObservaciones" type="xs:string" minOccurs="0" />
+              <xs:element name="sIdTipoAtencion" type="xs:string" minOccurs="0" />
+              <xs:element name="iIdDelegado" type="xs:int" minOccurs="0" />
+              <xs:element name="sIdEstAtencion" type="xs:string" minOccurs="0" />
+              <xs:element name="iIdCliente" type="xs:int" minOccurs="0" />
+              <xs:element name="fImportePrev" type="xs:double" minOccurs="0" />
+              <xs:element name="fImporteReal" type="xs:double" minOccurs="0" />
+              <xs:element name="dFechaCreacion" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dFechaPrev" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dFechaAprob1" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dFechaAprob2" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dFechaReal" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dFechaLiq" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dFechaCierre" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dFUM" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="iEstado" type="xs:short" minOccurs="0" />
+              <xs:element name="bEnviadoPDA" type="xs:boolean" minOccurs="0" />
+              <xs:element name="bEnviadoCLI" type="xs:boolean" minOccurs="0" />
+              <xs:element name="dFechaAprob3" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="dFechaAprob4" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AtencionesProductos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdAtencion" type="xs:int" />
+              <xs:element name="sIdProducto" type="xs:string" />
+              <xs:element name="fPorcentaje" type="xs:double" minOccurs="0" />
+              <xs:element name="bEnviadoPDA" type="xs:boolean" minOccurs="0" />
+              <xs:element name="bEnviadoCLI" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CampanyasPedido">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sIdPedido" type="xs:string" />
+              <xs:element name="sIdCampanya" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ContactosClientes_SAP">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdCliente" type="xs:int" />
+              <xs:element name="iIdContacto" type="xs:int" />
+              <xs:element name="sNombre" type="xs:string" minOccurs="0" />
+              <xs:element name="sIdCargoContacto" type="xs:string" minOccurs="0" />
+              <xs:element name="dFAR" type="xs:string" minOccurs="0" />
+              <xs:element name="dFBR" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="iEstado" type="xs:short" minOccurs="0" />
+              <xs:element name="dFUM" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="dsDatosPDAKey14" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Pedidos_Cab" />
+      <xs:field xpath="mstns:sIdPedido" />
+    </xs:unique>
+    <xs:unique name="dsDatosPDAKey15" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Pedidos_Lin" />
+      <xs:field xpath="mstns:sIdPedido" />
+      <xs:field xpath="mstns:iIdLinea" />
+    </xs:unique>
+    <xs:unique name="dsDatosPDAKey16" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:RepActividad_Cab" />
+      <xs:field xpath="mstns:iIdReport" />
+    </xs:unique>
+    <xs:unique name="dsDatosPDAKey17" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:RepActividad_Cli" />
+      <xs:field xpath="mstns:iIdReport" />
+      <xs:field xpath="mstns:iIdCliente" />
+    </xs:unique>
+    <xs:unique name="dsDatosPDAKey18" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:RepActividad_Aten" />
+      <xs:field xpath="mstns:iIdReport" />
+      <xs:field xpath="mstns:iIdCliente" />
+      <xs:field xpath="mstns:iIdAtencion" />
+      <xs:field xpath="mstns:iNumAtencion" />
+    </xs:unique>
+    <xs:unique name="dsDatosPDAKey19" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:RepActividadCli_ProxObj" />
+      <xs:field xpath="mstns:iIdCentro" />
+      <xs:field xpath="mstns:iIdCliente" />
+    </xs:unique>
+    <xs:unique name="dsDatosPDAKey20" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:RepActividad_Ped" />
+      <xs:field xpath="mstns:iIdReport" />
+      <xs:field xpath="mstns:sIdPedido" />
+    </xs:unique>
+    <xs:unique name="dsDatosPDAKey22" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:RepActividad_Gad" />
+      <xs:field xpath="mstns:iIdReport" />
+      <xs:field xpath="mstns:iIdCliente" />
+      <xs:field xpath="mstns:iIdAccion" />
+    </xs:unique>
+    <xs:unique name="dsDatosCLIKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:AtencionesNotasGastos" />
+      <xs:field xpath="mstns:iIdNota" />
+      <xs:field xpath="mstns:iIdReport" />
+      <xs:field xpath="mstns:iIdCliente" />
+      <xs:field xpath="mstns:iIdAtencion" />
+      <xs:field xpath="mstns:iNumAtencion" />
+    </xs:unique>
+    <xs:unique name="dsDatosCLIKey2" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:NotasGastos" />
+      <xs:field xpath="mstns:iIdNota" />
+    </xs:unique>
+    <xs:unique name="dsDatosCLIKey3" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:NotasGastos_Lin" />
+      <xs:field xpath="mstns:iIdNota" />
+      <xs:field xpath="mstns:iIdGasto" />
+    </xs:unique>
+    <xs:unique name="dsDatosCLIKey4" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:AccionesMarkClientes" />
+      <xs:field xpath="mstns:iIdAccion" />
+      <xs:field xpath="mstns:iIdCliente" />
+      <xs:field xpath="mstns:dFechaEntrega" />
+    </xs:unique>
+    <xs:unique name="dsDatosCLIKey5">
+      <xs:selector xpath=".//mstns:AtencionesComerciales" />
+      <xs:field xpath="mstns:iIdAtencion" />
+    </xs:unique>
+    <xs:unique name="dsDatosCLIKey6" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:AtencionesProductos" />
+      <xs:field xpath="mstns:iIdAtencion" />
+      <xs:field xpath="mstns:sIdProducto" />
+    </xs:unique>
+    <xs:unique name="dsDatosCLIKey7" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CampanyasPedido" />
+      <xs:field xpath="mstns:sIdPedido" />
+      <xs:field xpath="mstns:sIdCampanya" />
+    </xs:unique>
+    <xs:unique name="ContactosClientes_SAPKey1">
+      <xs:selector xpath=".//mstns:ContactosClientes_SAP" />
+      <xs:field xpath="mstns:iIdCliente" />
+      <xs:field xpath="mstns:iIdContacto" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

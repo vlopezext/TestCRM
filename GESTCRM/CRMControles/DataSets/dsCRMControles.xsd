@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="dsCRMControles" targetNamespace="http://www.tempuri.org/dsCRMControles.xsd" xmlns:mstns="http://www.tempuri.org/dsCRMControles.xsd" xmlns="http://www.tempuri.org/dsCRMControles.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="dsCRMControles" msdata:IsDataSet="true">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="ListaRankingMateriales">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sIdMaterial" type="xs:string" />
+              <xs:element name="sCodNacional" type="xs:string" minOccurs="0" />
+              <xs:element name="sMaterial" type="xs:string" minOccurs="0" />
+              <xs:element name="Suma" msdata:ReadOnly="true" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ListaGastos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdGasto" type="xs:int" />
+              <xs:element name="sDescripcion" type="xs:string" />
+              <xs:element name="fPrecio" type="xs:double" />
+              <xs:element name="sCosteSAP" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ListaUltimasVisitas">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdReport" type="xs:int" />
+              <xs:element name="dFecha" type="xs:dateTime" />
+              <xs:element name="tFecha" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="Centro" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="iHorario" type="xs:string" minOccurs="0" />
+              <xs:element name="tHorario" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="tProxObj" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              <xs:element name="Boton" msdata:ReadOnly="true" type="xs:int" minOccurs="0" />
+              <xs:element name="bEnviadoCEN" msdata:ReadOnly="true" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ListaGastos" />
+      <xs:field xpath="mstns:iIdGasto" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

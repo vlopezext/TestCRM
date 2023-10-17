@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="dsMantenimientos" targetNamespace="http://www.tempuri.org/dsMantenimientos.xsd" xmlns:mstns="http://www.tempuri.org/dsMantenimientos.xsd" xmlns="http://www.tempuri.org/dsMantenimientos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="dsMantenimientos" msdata:IsDataSet="true" msdata:Locale="es-ES">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="ListaLineasTipo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sValor" type="xs:string" />
+              <xs:element name="sLiteral" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ListaCentrosSap">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdCentro" type="xs:int" />
+              <xs:element name="sDescripcion" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ListaProductos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sIdProducto" type="xs:string" />
+              <xs:element name="sDescripcion" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ListaCentrosCom">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdCentro" type="xs:int" />
+              <xs:element name="sDescripcion" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ListaCentrosMantCOM">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdCentro" type="xs:int" />
+              <xs:element name="sDescripcion" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Configuracion">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sConfig" type="xs:string" />
+              <xs:element name="sValor" type="xs:string" />
+              <xs:element name="iIdConfig" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ListaProductos" />
+      <xs:field xpath="mstns:sIdProducto" />
+    </xs:unique>
+    <xs:unique name="Configuracion_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Configuracion" />
+      <xs:field xpath="mstns:iIdConfig" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

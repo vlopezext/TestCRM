@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://STADACRM/dsRetorno.xsd" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:mstns="http://STADACRM/dsRetorno.xsd" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://STADACRM/dsRetorno.xsd" id="dsRetorno" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element msdata:IsDataSet="true" msdata:UseCurrentLocale="true" name="dsRetorno">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Tabla">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sNombreTabla" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Filas">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="sNombreTabla" type="xs:string" />
+              <xs:element minOccurs="0" name="sKey" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Definiciones">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="sNombreTabla" type="xs:string" />
+              <xs:element minOccurs="0" name="sCampoFecha" type="xs:string" />
+              <xs:element minOccurs="0" name="sCampoMarca" type="xs:string" />
+              <xs:element minOccurs="0" name="bMarcaBool" type="xs:boolean" />
+              <xs:element minOccurs="0" name="bMarcaDate" type="xs:boolean" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Errores">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="ItemName" type="xs:string" />
+              <xs:element minOccurs="0" name="Message" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique msdata:PrimaryKey="true" name="dsRetornoKey1">
+      <xs:selector xpath=".//mstns:Tabla" />
+      <xs:field xpath="mstns:sNombreTabla" />
+    </xs:unique>
+    <xs:keyref name="TablaDefiniciones" refer="mstns:dsRetornoKey1">
+      <xs:selector xpath=".//mstns:Definiciones" />
+      <xs:field xpath="mstns:sNombreTabla" />
+    </xs:keyref>
+    <xs:keyref name="TablaFilas" refer="mstns:dsRetornoKey1">
+      <xs:selector xpath=".//mstns:Filas" />
+      <xs:field xpath="mstns:sNombreTabla" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

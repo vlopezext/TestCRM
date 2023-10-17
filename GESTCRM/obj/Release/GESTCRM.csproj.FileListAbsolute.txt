@@ -1,0 +1,379 @@
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\ResolveAssemblyReference.cache
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.csproj.ResolveComReference.cache
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmBase.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmDialog.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAbout.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaCentros.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmClientes.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaReport.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmGastos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmLogin.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPedidos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPopup.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPresupuestos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPrincipal.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmReporting.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmRestore.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincro.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincroPDA.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmTip.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.ShowError.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.ShowInfo.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.ShowQuestion.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.SincroResult.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Properties.Resources.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.csproj.GenerateResource.Cache
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Release\GESTCRMCL.exe.config
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Release\GESTCRMCL.exe
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Release\GESTCRMCL.XmlSerializers.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Release\CompressionExtension.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Release\ControlesPersonalizados.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Release\mscorcfg.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRMCL.exe
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRMCL.XmlSerializers.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\Desarrollo 2008\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmProcesando.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Release\GESTCRMCL.exe.config
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.csproj.ResolveComReference.cache
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRMCL.exe
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRMCL.XmlSerializers.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Release\GESTCRMCL.exe
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Release\GESTCRMCL.XmlSerializers.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Release\CompressionExtension.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Release\ControlesPersonalizados.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Release\mscorcfg.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\ResolveAssemblyReference.cache
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmBase.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmDialog.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAbout.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaCentros.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAtenciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmClientes.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaReport.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmGastos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmLogin.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPedidos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPopup.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPresupuestos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPrincipal.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmProcesando.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmReporting.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmRestore.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincro.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincroPDA.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmTip.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.ShowError.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.ShowInfo.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.ShowQuestion.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.SincroResult.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Properties.Resources.resources
+C:\Projectes\STADA\CRM\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.csproj.GenerateResource.Cache
+E:\Stada\GESTCRMCL\GESTCRM\bin\Release\GESTCRMCL.exe.config
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.csproj.ResolveComReference.cache
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRMCL.exe
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRMCL.XmlSerializers.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Release\GESTCRMCL.exe
+E:\Stada\GESTCRMCL\GESTCRM\bin\Release\GESTCRMCL.XmlSerializers.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Release\CompressionExtension.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Release\ControlesPersonalizados.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Release\mscorcfg.dll
+E:\Stada\GESTCRMCL\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.xml
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\ResolveAssemblyReference.cache
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.CRMControles.ucRankingMatCli.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimasVisitas.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimoPedido.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmBase.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmDialog.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmMantenimientos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAbout.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaCentros.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaMedicos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmAtenciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmClientes.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaAtenciones.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaCentros.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaGastos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaPedidos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaReport.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaVisit.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmGastos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmLogin.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPedidos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPopup.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPresupuestos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmPrincipal.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmProcesando.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmReporting.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmRestore.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincro.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincroPDA.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmTip.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.ShowError.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.ShowInfo.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.ShowQuestion.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.SincroResult.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Properties.Resources.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.csproj.GenerateResource.Cache
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmNIFCC.resources
+E:\Stada\GESTCRMCL\GESTCRM\obj\Release\GESTCRM.Formularios.frmHoras.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\GESTCRMCL.exe.config
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.csproj.ResolveComReference.cache
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRMCL.exe
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRMCL.XmlSerializers.dll
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\GESTCRMCL.exe
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\GESTCRMCL.XmlSerializers.dll
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\CompressionExtension.dll
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\ControlesPersonalizados.dll
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.xml
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.CRMControles.ucRankingMatCli.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimasVisitas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimoPedido.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmBase.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmDialog.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmMantenimientos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAbout.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaCentros.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaMedicos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAtenciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmClientes.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaAtenciones.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaCentros.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaGastos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaPedidos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaReport.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaVisit.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmGastos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmHoras.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmLogin.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmNIFCC.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPedidos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPopup.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPresupuestos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPrincipal.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmProcesando.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmReporting.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmRestore.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincro.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincroPDA.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmTip.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMGastos.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.ShowError.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.ShowInfo.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.ShowQuestion.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.SincroResult.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Properties.Resources.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmImportarPedido.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaVentas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmCopiarPedido.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPropuestaPedido.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.csprojResolveAssemblyReference.cache
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.csproj.GenerateResource.Cache
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAutopedAccMark.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAlarmasVisitas.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmStocks.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmMatsConVale.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+E:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\GESTCRMCL.exe.config
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\GESTCRMCL.exe
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\GESTCRMCL.XmlSerializers.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\CompressionExtension.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\ControlesPersonalizados.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.csproj.ResolveComReference.cache
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.CRMControles.ucRankingMatCli.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimasVisitas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.CRMControles.ucUltimoPedido.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmBase.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmDialog.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Base.frmMantenimientos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMark.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMClientesSAPAutopedAccMarkCon.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMaterialesArrastres.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMAcciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMBuscaAtenciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMCentros.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMClientesSAP.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMGadgets.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMateriales.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMMayoristas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMPoblaciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMProductos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmSeleccionaBrick.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAbout.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAlarmasVisitas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaCentros.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAltaMedicos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAtenciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmAutopedAccMark.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmClientes.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.txtbLeyenda.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaAtenciones.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaCentros.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaGastos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaPedidos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaReport.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaVentas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaVisit.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmCopiarPedido.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmGastos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmGraphCantidadesAdquiridas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmGraphDescuentoAplicado.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmGraphVentasProdFcia.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmHoras.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmImportarPedido.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmIndicadoresIAlarmas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmIndicadores_2.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmLogin.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmMatsConVale.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmNIFCC.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPedidos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPopup.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPresupuestos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPrincipal.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmProcesando.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmPropuestaPedido.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmReporting.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmRestore.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincro.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmSincroPDA.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmStocks.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmTip.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMAccMarketing.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmManClientesSAP.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Mantenimientos.frmMConfiguracion.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.ShowError.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.ShowInfo.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.ShowQuestion.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.SincroResult.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Properties.Resources.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.csproj.GenerateResource.Cache
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRMCL.exe
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRMCL.XmlSerializers.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.Busquedas.frmMClientesInterloc.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\DocumentFormat.OpenXml.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\DocumentFormat.OpenXml.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmEncuesta.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmConsultaEncuestas.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\BouncyCastle.Crypto.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\Common.Logging.Core.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\Common.Logging.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.barcodes.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.forms.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.io.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.kernel.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.layout.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.pdfa.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.sign.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.styledxmlparser.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.svg.dll
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\BouncyCastle.Crypto.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\Common.Logging.pdb
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\Common.Logging.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\Common.Logging.Core.pdb
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\Common.Logging.Core.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.barcodes.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.forms.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.io.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.kernel.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.layout.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.pdfa.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.sign.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.styledxmlparser.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\itext.svg.xml
+C:\Stada\GESTCRMCL_CH\GESTCRM\bin\Release\ControlesPersonalizados.dll.config
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.csproj.CoreCompileInputs.cache
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.csproj.CopyComplete
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.Formularios.frmGraphPuntos.resources
+C:\Stada\GESTCRMCL_CH\GESTCRM\obj\Release\GESTCRM.csproj.AssemblyReference.cache

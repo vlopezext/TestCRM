@@ -1,0 +1,21 @@
+Ricard Hortigüela Estrada (altran)  28 octubre 2008 :
+
+
+Cuando se actualiza la referencia web del webservice de sincronización con central, se rehace el archivo 
+reference.cs.
+
+Ello conlleva que los metatag de compresión desaparezca, no dará ningún error de complicación, pero al ejectuarlo 
+nos aparecerà un error que serà un texto codificado en base64 el cual no tendrà ningún sentido para nosotros.
+
+Para solventar este problema cada vez que se actualice la referencia web, deberemos poner de nuevo el metatag 
+
+[MasterCSharp.WebServices.CompressionExtension]
+
+Encima de los procedimientos que corresponda, en este caso serán :
+
+	· RecibirDeCentral
+	· EndRecibirDeCentral
+	· EnviarACentral
+	· EndEnviarACentral
+	· FinSincro
+	· EndFinSincro

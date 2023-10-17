@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="-2209" viewPortTop="10155" zoom="100">
+    <SincroTiposPDA_XmlElement left="793" top="651" width="5292" height="2963" selected="0" zOrder="16" index="0" expanded="1" />
+    <SincroLineasTiposPDA_XmlElement left="6271" top="687" width="5292" height="2963" selected="0" zOrder="17" index="1" expanded="1" />
+    <SincroTiposPosPedidosSAPPDA_XmlElement left="847" top="3624" width="5292" height="2963" selected="0" zOrder="18" index="2" expanded="1" />
+    <SincroProductosPDA_XmlElement left="6381" top="3784" width="5292" height="2963" selected="0" zOrder="19" index="3" expanded="1" />
+    <SincroMaterialesPDA_XmlElement left="6482" top="7064" width="5292" height="5503" selected="0" zOrder="1" index="4" expanded="1" />
+    <SincroDelegadosPDA_XmlElement left="11907" top="709" width="5292" height="2963" selected="0" zOrder="20" index="5" expanded="1" />
+    <SincroDelegadoBrickPDA_XmlElement left="11961" top="3778" width="5292" height="2963" selected="0" zOrder="21" index="6" expanded="1" />
+    <SincroBrickCodigoPostalPDA_XmlElement left="12147" top="7086" width="5292" height="2963" selected="0" zOrder="22" index="7" expanded="1" />
+    <SincroCentrosPDA_XmlElement left="17464" top="970" width="5292" height="2963" selected="0" zOrder="23" index="8" expanded="1" />
+    <SincroClientesPDA_XmlElement left="17726" top="4014" width="5292" height="2963" selected="0" zOrder="24" index="9" expanded="1" />
+    <SincroClientes_COMPDA_XmlElement left="17542" top="7144" width="5450" height="2963" selected="0" zOrder="25" index="10" expanded="1" />
+    <SincroCentrosClientes_COMPDA_XmlElement left="23122" top="1097" width="5292" height="2963" selected="0" zOrder="26" index="11" expanded="1" />
+    <SincroClientes_SAPPDA_XmlElement left="23230" top="4207" width="5291" height="5926" selected="0" zOrder="27" index="12" expanded="1" />
+    <SincroPedidos_LinPDA_XmlElement left="29008" top="4426" width="5292" height="2963" selected="0" zOrder="28" index="13" expanded="1" />
+    <SincroRepActividad_CabPDA_XmlElement left="29189" top="7521" width="5292" height="2963" selected="0" zOrder="29" index="14" expanded="1" />
+    <SincroRepActividad_CliPDA_XmlElement left="34533" top="1294" width="5292" height="2963" selected="0" zOrder="30" index="15" expanded="1" />
+    <SincroRepActividad_AtenPDA_XmlElement left="34786" top="4538" width="5292" height="2963" selected="0" zOrder="31" index="16" expanded="1" />
+    <SincroRepActividadCli_ProxObjPDA_XmlElement left="34970" top="7701" width="5292" height="2963" selected="0" zOrder="32" index="17" expanded="1" />
+    <SincroRepActividad_PedPDA_XmlElement left="40257" top="1403" width="5292" height="2963" selected="0" zOrder="33" index="18" expanded="1" />
+    <SincroAccionesMarketingPDA_XmlElement left="40439" top="4520" width="5292" height="2963" selected="0" zOrder="34" index="19" expanded="1" />
+    <SincroRepActividad_GadPDA_XmlElement left="40728" top="7906" width="5292" height="2963" selected="0" zOrder="35" index="20" expanded="1" />
+    <SincroDescuento_CampanyasPDA_XmlElement left="12885" top="10265" width="8731" height="2117" selected="0" zOrder="2" index="21" expanded="1" />
+    <SincroMaterialCampPDA_XmlElement left="7752" top="15504" width="7990" height="3387" selected="0" zOrder="4" index="22" expanded="1" />
+    <SincroGastosPDA_XmlElement left="23177" top="11721" width="5292" height="6350" selected="0" zOrder="6" index="23" expanded="1" />
+    <SincroAtencionesNotasGastosPDA_XmlElement left="29183" top="11694" width="5291" height="6773" selected="0" zOrder="36" index="24" expanded="1" />
+    <SincroNotasGastosPDA_XmlElement left="34951" top="11694" width="5291" height="6773" selected="0" zOrder="37" index="25" expanded="1" />
+    <SincroNotasGastos_LinPDA_XmlElement left="40904" top="11826" width="9895" height="6774" selected="0" zOrder="38" index="26" expanded="1" />
+    <SincroAccionesMarkClientesPDA_XmlElement left="47518" top="6694" width="10530" height="4656" selected="0" zOrder="39" index="27" expanded="1" />
+    <SincroAtencionesComercialesPDA_XmlElement left="291" top="6826" width="5874" height="11006" selected="0" zOrder="8" index="28" expanded="1" />
+    <SincroAtencionesProductosPDA_XmlElement left="51143" top="11880" width="11430" height="4233" selected="0" zOrder="40" index="29" expanded="1" />
+    <SincroInterlocutorClientes_SAPPDA_XmlElement left="48047" top="1270" width="12700" height="4656" selected="0" zOrder="41" index="30" expanded="1" />
+    <SincroCampanyasPedidoPDA_XmlElement left="51249" top="16007" width="11641" height="2117" selected="0" zOrder="42" index="31" expanded="1" />
+    <SincroCampanyasMultiplesPDA_XmlElement left="59838" top="8193" width="5292" height="2963" selected="0" zOrder="43" index="32" expanded="1" />
+    <SincroPedidos_CabPDA_XmlElement left="16642" top="12885" width="5292" height="10160" selected="0" zOrder="10" index="33" expanded="1" />
+    <prueba_XmlElement left="23471" top="18862" width="5292" height="2963" selected="0" zOrder="12" index="34" expanded="1" />
+    <SincroMaterialRentabilidadPDA_XmlElement left="7673" top="19419" width="8043" height="2964" selected="0" zOrder="14" index="35" expanded="1" />
+    <SincroTramosRentabilidadPDA_XmlElement left="-1640" top="18282" width="8202" height="5503" selected="0" zOrder="44" index="36" expanded="1" />
+</XSDDesignerLayout>

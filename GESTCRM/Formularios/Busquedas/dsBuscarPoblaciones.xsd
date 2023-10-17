@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes" ?>
+<xs:schema id="dsBuscarPoblaciones" targetNamespace="http://www.tempuri.org/dsBuscarPoblaciones.xsd"
+	xmlns:mstns="http://www.tempuri.org/dsBuscarPoblaciones.xsd" xmlns="http://www.tempuri.org/dsBuscarPoblaciones.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+	attributeFormDefault="qualified" elementFormDefault="qualified">
+	<xs:element name="dsBuscarPoblaciones" msdata:IsDataSet="true" msdata:Locale="es-ES">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="ListaProvincias">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="iIdProvincia" type="xs:int" />
+							<xs:element name="sProvincia" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaCodPostal">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sCodPostal" type="xs:string" />
+							<xs:element name="sCodPostal1" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ListaPoblaciones">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="iIdPoblacion" type="xs:int" />
+							<xs:element name="Poblacion" type="xs:string" />
+							<xs:element name="CodPostal" type="xs:string" />
+							<xs:element name="iIdProvincia" type="xs:int" />
+							<xs:element name="Provincia" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

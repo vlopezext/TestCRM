@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPedidos" targetNamespace="http://tempuri.org/dsPedidos.xsd" xmlns:mstns="http://tempuri.org/dsPedidos.xsd" xmlns="http://tempuri.org/dsPedidos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=08TPO0267\SQL2012;Initial Catalog=GESTCRMCL;User ID=sa;Password=test" IsAppSettingsProperty="false" Modifier="Assembly" Name="08tpo0267\sql2012.GESTCRMCL.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+          <Connection ConnectionStringObject="Data Source=EFLORENZA-HP\SQLEXPRESS;Initial Catalog=GESTCRMCL;User ID=sa;Password=Bayvit1429" IsAppSettingsProperty="false" Modifier="Assembly" Name="eflorenza-hp\sqlexpress.GESTCRMCL.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPedidos" msdata:IsDataSet="true" msdata:Locale="en-US" msprop:Generator_DataSetName="dsPedidos" msprop:Generator_UserDSName="dsPedidos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="GetCampanyasPedidos" msprop:Generator_UserTableName="GetCampanyasPedidos" msprop:Generator_RowEvArgName="GetCampanyasPedidosRowChangeEvent" msprop:Generator_TableVarName="tableGetCampanyasPedidos" msprop:Generator_TablePropName="GetCampanyasPedidos" msprop:Generator_RowDeletingName="GetCampanyasPedidosRowDeleting" msprop:Generator_RowChangingName="GetCampanyasPedidosRowChanging" msprop:Generator_RowDeletedName="GetCampanyasPedidosRowDeleted" msprop:Generator_RowEvHandlerName="GetCampanyasPedidosRowChangeEventHandler" msprop:Generator_TableClassName="GetCampanyasPedidosDataTable" msprop:Generator_RowChangedName="GetCampanyasPedidosRowChanged" msprop:Generator_RowClassName="GetCampanyasPedidosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sIdPedido" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnsIdPedido" msprop:Generator_ColumnPropNameInRow="sIdPedido" msprop:Generator_ColumnPropNameInTable="sIdPedidoColumn" msprop:Generator_UserColumnName="sIdPedido" type="xs:string" minOccurs="0" />
+              <xs:element name="sIdCampanya" msprop:Generator_ColumnVarNameInTable="columnsIdCampanya" msprop:Generator_ColumnPropNameInRow="sIdCampanya" msprop:Generator_ColumnPropNameInTable="sIdCampanyaColumn" msprop:Generator_UserColumnName="sIdCampanya" type="xs:string" />
+              <xs:element name="cCampanya" msprop:Generator_ColumnVarNameInTable="columncCampanya" msprop:Generator_ColumnPropNameInRow="cCampanya" msprop:Generator_ColumnPropNameInTable="cCampanyaColumn" msprop:Generator_UserColumnName="cCampanya" type="xs:string" />
+              <xs:element name="bSelect" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnbSelect" msprop:Generator_ColumnPropNameInRow="bSelect" msprop:Generator_ColumnPropNameInTable="bSelectColumn" msprop:Generator_UserColumnName="bSelect" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="GetRentabilidadDescripcion" msprop:Generator_UserTableName="GetRentabilidadDescripcion" msprop:Generator_RowEvArgName="GetRentabilidadDescripcionRowChangeEvent" msprop:Generator_TableVarName="tableGetRentabilidadDescripcion" msprop:Generator_TablePropName="GetRentabilidadDescripcion" msprop:Generator_RowDeletingName="GetRentabilidadDescripcionRowDeleting" msprop:Generator_RowChangingName="GetRentabilidadDescripcionRowChanging" msprop:Generator_RowDeletedName="GetRentabilidadDescripcionRowDeleted" msprop:Generator_RowEvHandlerName="GetRentabilidadDescripcionRowChangeEventHandler" msprop:Generator_TableClassName="GetRentabilidadDescripcionDataTable" msprop:Generator_RowChangedName="GetRentabilidadDescripcionRowChanged" msprop:Generator_RowClassName="GetRentabilidadDescripcionRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DescRentabilidad" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDescRentabilidad" msprop:Generator_ColumnPropNameInRow="DescRentabilidad" msprop:Generator_ColumnPropNameInTable="DescRentabilidadColumn" msprop:Generator_UserColumnName="DescRentabilidad" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="GetRentabilidadColor" msprop:Generator_UserTableName="GetRentabilidadColor" msprop:Generator_RowEvArgName="GetRentabilidadColorRowChangeEvent" msprop:Generator_TableVarName="tableGetRentabilidadColor" msprop:Generator_TablePropName="GetRentabilidadColor" msprop:Generator_RowDeletingName="GetRentabilidadColorRowDeleting" msprop:Generator_RowChangingName="GetRentabilidadColorRowChanging" msprop:Generator_RowDeletedName="GetRentabilidadColorRowDeleted" msprop:Generator_RowEvHandlerName="GetRentabilidadColorRowChangeEventHandler" msprop:Generator_TableClassName="GetRentabilidadColorDataTable" msprop:Generator_RowChangedName="GetRentabilidadColorRowChanged" msprop:Generator_RowClassName="GetRentabilidadColorRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Color" msprop:Generator_ColumnVarNameInTable="columnColor" msprop:Generator_ColumnPropNameInRow="Color" msprop:Generator_ColumnPropNameInTable="ColorColumn" msprop:Generator_UserColumnName="Color" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="GetPedAcciones" msprop:Generator_TableClassName="GetPedAccionesDataTable" msprop:Generator_RowEvArgName="GetPedAccionesRowChangeEvent" msprop:Generator_TableVarName="tableGetPedAcciones" msprop:Generator_TablePropName="GetPedAcciones" msprop:Generator_RowDeletingName="GetPedAccionesRowDeleting" msprop:Generator_RowChangingName="GetPedAccionesRowChanging" msprop:Generator_RowDeletedName="GetPedAccionesRowDeleted" msprop:Generator_RowClassName="GetPedAccionesRow" msprop:Generator_RowEvHandlerName="GetPedAccionesRowChangeEventHandler" msprop:Generator_RowChangedName="GetPedAccionesRowChanged" msprop:Generator_UserTableName="GetPedAcciones">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sIdPedido" msprop:Generator_ColumnVarNameInTable="columnsIdPedido" msprop:Generator_ColumnPropNameInRow="sIdPedido" msprop:Generator_ColumnPropNameInTable="sIdPedidoColumn" msprop:Generator_UserColumnName="sIdPedido" type="xs:string" minOccurs="0" />
+              <xs:element name="iIdAccion" msprop:Generator_ColumnVarNameInTable="columniIdAccion" msprop:Generator_ColumnPropNameInRow="iIdAccion" msprop:Generator_ColumnPropNameInTable="iIdAccionColumn" msprop:Generator_UserColumnName="iIdAccion" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="GetRentUltPedCli" msprop:Generator_TableClassName="GetRentUltPedCliDataTable" msprop:Generator_TableVarName="tableGetRentUltPedCli" msprop:Generator_TablePropName="GetRentUltPedCli" msprop:Generator_RowDeletingName="GetRentUltPedCliRowDeleting" msprop:Generator_RowChangingName="GetRentUltPedCliRowChanging" msprop:Generator_RowEvHandlerName="GetRentUltPedCliRowChangeEventHandler" msprop:Generator_RowDeletedName="GetRentUltPedCliRowDeleted" msprop:Generator_UserTableName="GetRentUltPedCli" msprop:Generator_RowChangedName="GetRentUltPedCliRowChanged" msprop:Generator_RowEvArgName="GetRentUltPedCliRowChangeEvent" msprop:Generator_RowClassName="GetRentUltPedCliRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sIdPedido" msprop:Generator_ColumnVarNameInTable="columnsIdPedido" msprop:Generator_ColumnPropNameInRow="sIdPedido" msprop:Generator_ColumnPropNameInTable="sIdPedidoColumn" msprop:Generator_UserColumnName="sIdPedido">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="12" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fRentabilidad" msprop:Generator_ColumnVarNameInTable="columnfRentabilidad" msprop:Generator_ColumnPropNameInRow="fRentabilidad" msprop:Generator_ColumnPropNameInTable="fRentabilidadColumn" msprop:Generator_UserColumnName="fRentabilidad" type="xs:double" minOccurs="0" />
+              <xs:element name="sDescripcionRentabilidad" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnsDescripcionRentabilidad" msprop:Generator_ColumnPropNameInRow="sDescripcionRentabilidad" msprop:Generator_ColumnPropNameInTable="sDescripcionRentabilidadColumn" msprop:Generator_UserColumnName="sDescripcionRentabilidad" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sColorRentabilidad" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnsColorRentabilidad" msprop:Generator_ColumnPropNameInRow="sColorRentabilidad" msprop:Generator_ColumnPropNameInTable="sColorRentabilidadColumn" msprop:Generator_UserColumnName="sColorRentabilidad" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RegalosEspeciales" msprop:Generator_TableClassName="RegalosEspecialesDataTable" msprop:Generator_TableVarName="tableRegalosEspeciales" msprop:Generator_TablePropName="RegalosEspeciales" msprop:Generator_RowDeletingName="RegalosEspecialesRowDeleting" msprop:Generator_RowChangingName="RegalosEspecialesRowChanging" msprop:Generator_RowEvHandlerName="RegalosEspecialesRowChangeEventHandler" msprop:Generator_RowDeletedName="RegalosEspecialesRowDeleted" msprop:Generator_UserTableName="RegalosEspeciales" msprop:Generator_RowChangedName="RegalosEspecialesRowChanged" msprop:Generator_RowEvArgName="RegalosEspecialesRowChangeEvent" msprop:Generator_RowClassName="RegalosEspecialesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdCamp" msprop:Generator_ColumnVarNameInTable="columniIdCamp" msprop:Generator_ColumnPropNameInRow="iIdCamp" msprop:Generator_ColumnPropNameInTable="iIdCampColumn" msprop:Generator_UserColumnName="iIdCamp">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="iIdMaterial" msprop:Generator_ColumnVarNameInTable="columniIdMaterial" msprop:Generator_ColumnPropNameInRow="iIdMaterial" msprop:Generator_ColumnPropNameInTable="iIdMaterialColumn" msprop:Generator_UserColumnName="iIdMaterial">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="iDeCampRegalo" msprop:Generator_ColumnVarNameInTable="columniDeCampRegalo" msprop:Generator_ColumnPropNameInRow="iDeCampRegalo" msprop:Generator_ColumnPropNameInTable="iDeCampRegaloColumn" msprop:Generator_UserColumnName="iDeCampRegalo" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:GetRentUltPedCli" />
+      <xs:field xpath="mstns:sIdPedido" />
+    </xs:unique>
+    <xs:unique name="ListaRegalosEspecialesKey1">
+      <xs:selector xpath=".//mstns:RegalosEspeciales" />
+      <xs:field xpath="mstns:iIdCamp" />
+      <xs:field xpath="mstns:iIdMaterial" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

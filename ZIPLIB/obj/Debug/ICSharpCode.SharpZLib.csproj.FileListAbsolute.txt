@@ -1,0 +1,34 @@
+C:\Desarrollo 2008\GESTCRMCL\bin\ICSharpCode.SharpZipLib.dll
+C:\Desarrollo 2008\GESTCRMCL\bin\ICSharpCode.SharpZipLib.pdb
+C:\Desarrollo 2008\GESTCRMCL\ZIPLIB\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo 2008\GESTCRMCL\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Desarrollo 2008\GESTCRMCL\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Desarrollo 2008\GESTCRMCL new\bin\ICSharpCode.SharpZipLib.dll
+C:\Desarrollo 2008\GESTCRMCL new\bin\ICSharpCode.SharpZipLib.pdb
+C:\Desarrollo 2008\GESTCRMCL new\ZIPLIB\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo 2008\GESTCRMCL new\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Desarrollo 2008\GESTCRMCL new\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Projectes\STADA\CRM\GESTCRMCL\bin\ICSharpCode.SharpZipLib.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\bin\ICSharpCode.SharpZipLib.pdb
+C:\Projectes\STADA\CRM\GESTCRMCL\ZIPLIB\obj\Debug\ResolveAssemblyReference.cache
+C:\Projectes\STADA\CRM\GESTCRMCL\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projectes\STADA\CRM\GESTCRMCL\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Projectes\STADA\CRM\GESTCRMCL\bin\ICSharpCode.SharpZipLib.xml
+E:\Stada\GESTCRMCL\bin\ICSharpCode.SharpZipLib.dll
+E:\Stada\GESTCRMCL\bin\ICSharpCode.SharpZipLib.pdb
+E:\Stada\GESTCRMCL\ZIPLIB\obj\Debug\ResolveAssemblyReference.cache
+E:\Stada\GESTCRMCL\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.dll
+E:\Stada\GESTCRMCL\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Stada\GESTCRMCL\bin\ICSharpCode.SharpZipLib.xml
+E:\Stada\GESTCRMCL_CH\bin\ICSharpCode.SharpZipLib.dll
+E:\Stada\GESTCRMCL_CH\bin\ICSharpCode.SharpZipLib.pdb
+E:\Stada\GESTCRMCL_CH\ZIPLIB\obj\Debug\ResolveAssemblyReference.cache
+E:\Stada\GESTCRMCL_CH\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.dll
+E:\Stada\GESTCRMCL_CH\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Stada\GESTCRMCL_CH\bin\ICSharpCode.SharpZipLib.xml
+C:\Stada\GESTCRMCL_CH\bin\ICSharpCode.SharpZipLib.xml
+C:\Stada\GESTCRMCL_CH\bin\ICSharpCode.SharpZipLib.dll
+C:\Stada\GESTCRMCL_CH\bin\ICSharpCode.SharpZipLib.pdb
+C:\Stada\GESTCRMCL_CH\ZIPLIB\obj\Debug\ICSharpCode.SharpZLib.csprojResolveAssemblyReference.cache
+C:\Stada\GESTCRMCL_CH\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Stada\GESTCRMCL_CH\ZIPLIB\obj\Debug\ICSharpCode.SharpZipLib.pdb

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="39115" viewPortTop="0" zoom="100">
+    <ListaConsultaCentros_XmlElement left="317" top="254" width="5292" height="2963" selected="0" zOrder="14" index="0" expanded="1" />
+    <ListaDelegados_XmlElement left="6243" top="254" width="5292" height="2963" selected="0" zOrder="15" index="1" expanded="1" />
+    <ListaTipoCentro_XmlElement left="12169" top="254" width="5292" height="2963" selected="0" zOrder="1" index="2" expanded="1" />
+    <ListaHorariosCentros_XmlElement left="18095" top="254" width="5292" height="2963" selected="0" zOrder="2" index="3" expanded="1" />
+    <ListaCentrosHorariosVisitas_XmlElement left="24021" top="254" width="5292" height="2963" selected="0" zOrder="4" index="4" expanded="1" />
+    <ListaCentrosCliCOM_Horarios_XmlElement left="29947" top="254" width="5292" height="2963" selected="0" zOrder="6" index="5" expanded="1" />
+    <ListaRedes_XmlElement left="26552" top="3943" width="5292" height="2963" selected="0" zOrder="8" index="6" expanded="1" />
+    <ListaEstados_XmlElement left="26604" top="7276" width="5292" height="2963" selected="0" zOrder="10" index="7" expanded="1" />
+    <ListaCentros_XmlElement left="18441" top="3678" width="5292" height="9736" selected="0" zOrder="12" index="8" expanded="1" />
+    <ListaCentrosClientesSAP_COM_XmlElement left="46344" top="5689" width="5292" height="2963" selected="0" zOrder="23" index="9" expanded="1" />
+    <Table1_XmlElement left="52270" top="5689" width="5292" height="2963" selected="0" zOrder="24" index="10" expanded="1" />
+    <Table2_XmlElement left="58196" top="5689" width="5292" height="2963" selected="0" zOrder="25" index="11" expanded="1" />
+</XSDDesignerLayout>

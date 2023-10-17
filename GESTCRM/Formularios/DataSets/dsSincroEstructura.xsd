@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dsSincroEstructura" targetNamespace="http://tempuri.org/dsSincroEstructura.xsd"
+	elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dsSincroEstructura.xsd"
+	xmlns:mstns="http://tempuri.org/dsSincroEstructura.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dsSincroEstructura" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="SincroEstructuraPDA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="iIdDelegado" type="xs:int" minOccurs="0" nillable="true" />
+							<xs:element name="sCommand" type="xs:string" minOccurs="0" nillable="true" />
+							<xs:element name="dFechaEjecucion" type="xs:dateTime" minOccurs="0" nillable="true" />
+							<xs:element name="dfecha" type="xs:dateTime" minOccurs="0" nillable="true" />
+							<xs:element name="bEnviadoPDA" type="xs:boolean" minOccurs="0" nillable="true" />
+							<xs:element name="bEnviadoCEN" type="xs:boolean" minOccurs="0" nillable="true" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

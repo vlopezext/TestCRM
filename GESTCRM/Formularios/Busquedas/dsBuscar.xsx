@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="56565" viewPortTop="-789" zoom="100">
+    <ListaRutas_XmlElement left="9366" top="344" width="5133" height="2540" selected="0" zOrder="8" index="0" expanded="0" />
+    <ListaClientes_XmlElement left="-3969" top="4048" width="6350" height="4657" selected="0" zOrder="9" index="1" expanded="0" />
+    <Table1_XmlElement left="8335" top="4127" width="4868" height="4657" selected="0" zOrder="10" index="2" expanded="0" />
+    <Table2_XmlElement left="2593" top="4101" width="5292" height="4657" selected="0" zOrder="11" index="3" expanded="0" />
+    <ListaClientesBusquedas_XmlElement left="15133" top="1000" width="5292" height="2963" selected="0" zOrder="12" index="4" expanded="1" />
+    <ListaCentros_XmlElement left="21059" top="1000" width="5292" height="2963" selected="0" zOrder="13" index="5" expanded="1" />
+    <ListaLineasTipo_XmlElement left="26985" top="1000" width="5292" height="2963" selected="0" zOrder="14" index="6" expanded="1" />
+    <ListaTipoCliente_XmlElement left="32911" top="1000" width="5292" height="2963" selected="0" zOrder="15" index="7" expanded="1" />
+    <ListaGadgets_XmlElement left="38837" top="1000" width="5292" height="2963" selected="0" zOrder="16" index="8" expanded="1" />
+    <ListaProvincias_XmlElement left="-3334" top="212" width="5292" height="2117" selected="0" zOrder="17" index="9" expanded="0" />
+    <ListaCodPostal_XmlElement left="44763" top="1000" width="5292" height="2963" selected="0" zOrder="18" index="10" expanded="1" />
+    <ListaPoblaciones_XmlElement left="2699" top="265" width="5821" height="3387" selected="0" zOrder="19" index="11" expanded="0" />
+    <ListaRelacionClienteCentro_XmlElement left="50689" top="1000" width="5292" height="2963" selected="0" zOrder="20" index="12" expanded="1" />
+    <ListaBuscaMayoristas_XmlElement left="56615" top="1000" width="5292" height="2963" selected="0" zOrder="1" index="13" expanded="1" />
+    <ListaDevuelveMayoristas_XmlElement left="62541" top="1000" width="5292" height="2963" selected="0" zOrder="2" index="14" expanded="1" />
+    <ListaAtencionesAsignables_XmlElement left="68467" top="1000" width="5292" height="2963" selected="0" zOrder="4" index="15" expanded="1" />
+    <ListaBuscarProductos_XmlElement left="80319" top="1000" width="5292" height="2963" selected="0" zOrder="21" index="16" expanded="1" />
+    <ListaBuscaClientes_XmlElement left="86245" top="1000" width="5292" height="2963" selected="0" zOrder="23" index="17" expanded="1" />
+    <ListaBuscarAccionesMarketing_XmlElement left="92171" top="1000" width="5292" height="2963" selected="0" zOrder="24" index="18" expanded="1" />
+    <ListaRedes_XmlElement left="34108" top="6672" width="5292" height="2963" selected="0" zOrder="25" index="19" expanded="1" />
+    <ListaBuscaCentros_XmlElement left="67889" top="6381" width="5292" height="2963" selected="0" zOrder="6" index="20" expanded="1" />
+</XSDDesignerLayout>

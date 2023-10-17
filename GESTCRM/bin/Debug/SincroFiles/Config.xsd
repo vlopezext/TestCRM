@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Config" targetNamespace="http://tempuri.org/Config.xsd" xmlns:mstns="http://tempuri.org/Config.xsd" xmlns="http://tempuri.org/Config.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="Config" msdata:IsDataSet="true" msdata:Locale="es-ES" msdata:EnforceConstraints="False">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Configuracion">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="iIdConfig" type="xs:long" minOccurs="0" />
+              <xs:element name="sConfig" type="xs:string" minOccurs="0" />
+              <xs:element name="sValor" type="xs:string" minOccurs="0" />
+              <xs:element name="dFUM" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
